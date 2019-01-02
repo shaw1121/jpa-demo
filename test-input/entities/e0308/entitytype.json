@@ -1,0 +1,45 @@
+{
+"name": "PublicBaseTen1ET308",
+"scope": "public",
+"description": "Public Base Entitytype 308",
+"properties": [
+	{
+	"name": "PublicDirect1ET308",
+	"type": "DOUBLE",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "PublicDirect2ET308",
+	"type": "INT",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "PublicDirect3ET308",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "PublicDirect4ET308",
+	"type": "BOOLEAN",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PublicStatic1",
+	"propertySetType": "${defaultPrefix}.propsetStatic1"
+	},
+	{
+	"name": "PublicStatic2",
+	"propertySetType": "${defaultPrefix}.propsetStatic2"
+	},
+	{
+	"name": "PublicDynamic2",
+	"propertySetType": "${defaultPrefix}.propsetDynamic2"
+  	}	
+]
+}

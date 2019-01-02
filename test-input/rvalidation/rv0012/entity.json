@@ -1,0 +1,6 @@
+{
+	"name": "Entity Instance Reserved 0012",
+	"type": "${defaultPrefix}.PublicBaseETRW0012",
+	"description": "Entity Instance Reserved 0012 using lastUpdBy",
+	"lastUpdBy": "new query"
+}

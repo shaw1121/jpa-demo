@@ -1,0 +1,15 @@
+{
+    "name": "nvpropset10",
+    "description": "sample property set",
+    "category": "static",
+    "scope": "private",
+    "properties": [
+        {
+            "name": "Diameter",
+            "type": "int",
+            "searchable": "Y",
+            "length": 100,
+            "qualityCode": "N"
+        }
+    ]
+}

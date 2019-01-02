@@ -1,0 +1,6 @@
+{
+   "name": "Entity Instance 2",
+   "type": "${defaultPrefix}.PublicBaseMetricEntity2",
+   "description": "Entity Instance for Metrics",
+   "PublicDirect": "2500"
+}

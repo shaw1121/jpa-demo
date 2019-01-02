@@ -1,0 +1,15 @@
+{
+    "name": "nvpropset158",
+    "description": "nvpropset158 property set",
+    "category": "static",
+    "scope": "public",
+    "properties": [
+        {
+            "name": "Diameter",
+            "type": "ULONG",
+            "searchable": "Y",
+            "length": 100,
+            "qualityCode": "N"
+        }
+    ]
+}

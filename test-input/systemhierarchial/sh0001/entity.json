@@ -1,0 +1,54 @@
+{
+   "name": "Mercedes Z Series",
+   "type": "${defaultPrefix}.SHMERC",
+   "description": "MERC Z Series",
+   "SHMake": "MERC Z 3",
+   "SHModel": "Z series",
+   "SHEnginePower": "200 RPM",
+   "SHVin": "1234567A",
+   "SHDoor": 4,
+   "SHYear": "2016-01-01T16:00:00+05:00",
+   "SHElectric": "true",
+   "timezone": "America/New_York",
+   
+   
+   "SHRFwheel":   {
+    "SHWeight": 120,
+    "SHHeight": 200,
+    "SHWidth": 10
+    
+   },
+   "SHRRwheel":   {
+    "SHWeight": 120,
+    "SHHeight": 200,
+    "SHWidth": 10
+    
+   },
+   "SHLFwheel":   {
+    "SHWeight": 120,
+    "SHHeight": 200,
+    "SHWidth": 10
+    
+   },
+   "SHLRwheel":   {
+    "SHWeight": 120,
+    "SHHeight": 200,
+    "SHWidth": 10
+    
+   },
+   "SHFseat": {
+   "SHLeather":"true",
+   "SHMSHsage":"true",
+   "SHColor": "Blue",
+   "SHHeight": "100"
+   },
+   "SHRseat": {
+   "SHLeather":"false",
+   "SHMSHsage":"false",
+   "SHColor": "Blue",
+   "SHHeight": "100"
+   }
+   
+   
+   
+}

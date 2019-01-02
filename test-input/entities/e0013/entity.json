@@ -1,0 +1,15 @@
+{
+   "name": "Electricity",
+   "type": "${defaultPrefix}.Energy",
+   "description": "Electricity",
+   "KWH": "1500KWH",
+   "PricingPlan": "15",
+   "dynamic":   {
+    "T1DynamicProp2": "800"
+    
+   }
+   
+   
+   
+   
+}

@@ -1,0 +1,14 @@
+{
+"name": "PublicSubEntRW0022",
+"scope": "public",
+"description": "Public Sub Entitytype Reserved 0022",
+"extends" : "${defaultPrefix}.PublicBaseEntRW0022",
+"properties": [
+	{
+	"name": "Tenant",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	}
+]
+}

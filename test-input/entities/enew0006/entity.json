@@ -1,0 +1,11 @@
+{
+"name": "New Delhi",
+"type": "${defaultPrefix}.City",
+"description": "Capital of India",
+"parent": "ParentNotPresent",
+"Area": "2486105 sq.ft",
+"timezone" : "Asia/Kolkata",
+"static1":{
+    "Color": "White"
+   }
+}

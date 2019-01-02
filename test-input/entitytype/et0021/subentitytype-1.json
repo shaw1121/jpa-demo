@@ -1,0 +1,16 @@
+{
+"name": "PublicSubET211",
+"scope": "public",
+"description": "Public Sub Entitytype 21 1",
+"extends": "${defaultPrefix}.PublicBaseEnt212",
+"propertySets": [
+	{
+	"name": "PublicStatic7",
+	"propertySetType": "${defaultPrefix}.propsetStatic7"
+	},
+	{
+    "name": "PublicStatic8",
+    "propertySetType": "${defaultPrefix}.propsetStatic8"
+  }
+]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Tenant001",
+  "identityId":"Tenant001",
+  "typePrefix":"Ten001",
+  	"configuration": {
+	    "entity": {
+	      "defaultTimezone": "America/Los_Angeles"
+	    },
+	    "timeSeries": {
+	      "hotStorageHours": 48
+	    }
+	}
+}

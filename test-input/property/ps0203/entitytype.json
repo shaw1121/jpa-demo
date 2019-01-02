@@ -1,0 +1,28 @@
+{
+"name": "entitytype0203",
+"scope": "public",
+"description": "entitytype0203 entitytype",
+"properties": [
+	{
+	"name": "Color",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}, 
+	{
+	"name": "Model",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+  
+	{
+	"name": "staticpropset",
+	"propertySetType": "${defaultPrefix}.propset0203"
+	}
+]
+}

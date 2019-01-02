@@ -1,0 +1,7 @@
+{
+"name": "Entity EI 0028",
+"type": "${defaultPrefix}.PublicTen1Ent0028",
+"description": "Sample Entity",
+"PublicDirect1": "Direct Property 1",
+"timezone" : "Asia/Kolkata"
+}

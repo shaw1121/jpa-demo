@@ -1,0 +1,11 @@
+{
+"name": "Entity_EI_0018",
+"type": "${defaultPrefix}.PublicTen1Ent_0018",
+"description": "� Sample Entity",
+"Public_Direct1": "Direct Property 1",
+"Public_Direct2": 123434343,
+"PublicStatic_18" : {
+"_T1_Static_Prop1_": "prop1",
+"_T1_Static_Prop2_": "12346"
+}
+}

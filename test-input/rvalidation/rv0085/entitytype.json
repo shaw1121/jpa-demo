@@ -1,0 +1,13 @@
+{
+"name": "PublicBaseETRW0085",
+"scope": "public",
+"description": "Public Base Entitytype Reserved 0085",
+"properties": [
+	{
+	"name": "SELECT",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	}
+]
+}

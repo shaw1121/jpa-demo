@@ -1,0 +1,19 @@
+{
+"name": "PublicBaseTen1ET121",
+"scope": "public",
+"description": "Public Base Entitytype 121",
+"properties": [
+	{
+	"name": "PublicBaseDirect1ET121",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "PublicBaseDirect2ET121",
+	"type": "BOOLEAN",
+	"length": 100,
+	"searchable": "Y"
+	}
+]
+}

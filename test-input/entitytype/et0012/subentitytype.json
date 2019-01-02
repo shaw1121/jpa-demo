@@ -1,0 +1,21 @@
+{
+"name": "PublicTen1ET12",
+"scope": "public",
+"description": "Public Sub Entitytype 12",
+"extends": "Ten2.PublicTen2ET12",
+"properties": [
+	{
+	"name": "Ten1Direct1",
+	"type": "int",
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	{
+	"name": "Ten1Direct2",
+	"type": "boolean",
+	"length": 100,
+	"searchable": "Y"
+	}
+]
+}

@@ -1,0 +1,38 @@
+{
+"name": "PrivateBaseET07",
+"scope": "private",
+"description": "Private Base Entitytype 07",
+"properties": [
+	{
+	"name": "PrivateDirect1",
+	"type": "int",
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	{
+	"name": "PrivateDirect2",
+	"type": "long",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PrivateStatic1",
+	"propertySetType": "${defaultPrefix}.propsetStatic2"
+	},
+	{
+    "name": "PrivateStatic2",
+    "propertySetType": "${defaultPrefix}.propsetStatic6"
+  },
+{
+"name": "PrivateDynamic1",
+"propertySetType": "${defaultPrefix}.propsetDynamic2"
+  },
+    {
+    "name": "PrivateDynamic2",
+    "propertySetType": "${defaultPrefix}.propsetDynamic6"
+  }	
+]
+}

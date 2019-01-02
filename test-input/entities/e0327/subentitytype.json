@@ -1,0 +1,26 @@
+{
+"name": "PublicSubTen1ET327",
+"scope": "public",
+"description": "Public Base Entitytype 327",
+"extends": "${defaultPrefix}.PublicBaseTen1ET327",
+"properties": [
+	{
+	"name": "PublicSubDirect1ET327",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "PublicSubDirect2ET327",
+	"type": "BOOLEAN",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PublicSubStatic1",
+	"propertySetType": "${defaultPrefix}.propsetStatic2"
+	}
+]
+}

@@ -1,0 +1,21 @@
+{
+"name": "PrivateTen1ET27",
+"scope": "private",
+"description": "Private Sub Entitytype 27",
+"extends": "Ten2.PublicTen2ET27",
+"properties": [
+	{
+	"name": "Ten1Direct1",
+	"type": "int",
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	{
+	"name": "Ten1Direct2",
+	"type": "boolean",
+	"length": 100,
+	"searchable": "Y"
+	}
+]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "propsetStatic3",
+    "description": "propsetStatic3 property set",
+    "category": "static",
+    "scope": "public",
+    "properties": [
+       {
+      "name" : "T1Prop5",
+      "type" : "STRING",
+      "searchable" : "Y",
+      "length" : 100,
+      "qualityCode" : "N"
+    	},
+    	{
+      "name" : "T1Prop6",
+      "type" : "DOUBLE",
+      "searchable" : "Y",
+      "length" : 100,
+      "qualityCode" : "Y"
+    	}
+    ]
+}

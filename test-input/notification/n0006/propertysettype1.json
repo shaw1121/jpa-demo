@@ -1,0 +1,18 @@
+{
+    "id": "${defaultPrefix}.propset1",
+    "name": "propsetn0006a",
+    "description": "sample property set",
+    "description": "sample property set updated",
+    "description": "sample property set update",
+    "category": "static",
+    "scope": "private",
+    "properties": [
+        {
+            "name": "Color",
+            "type": "STRING",
+            "searchable": "Y",
+            "length": 100,
+            "qualityCode": "N"
+        }
+    ]
+}

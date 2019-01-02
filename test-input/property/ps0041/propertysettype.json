@@ -1,0 +1,22 @@
+{
+    "name": "propsetDynamic1",
+    "description": "propsetDynamic1 property set",
+    "category": "dynamic",
+    "scope": "public",
+    "properties": [
+       {
+      "name" : "T1DynamicProp1",
+      "type" : "TIMESTAMP",
+      "searchable" : "Y",
+      "length" : 100,
+      "qualityCode" : "N"
+    	},
+    	{
+      "name" : "T1DynamicProp2",
+      "type" : "LONG",
+      "searchable" : "Y",
+      "length" : 100,
+      "qualityCode" : "Y"
+    	}
+    ]
+}

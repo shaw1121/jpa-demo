@@ -1,0 +1,10 @@
+{
+"name": "Hyderabad",
+"type": "${defaultPrefix}.City",
+"description": "IT City",
+"DirectPropNoConfig": "Direct Property is not configured",
+"timezone" : "Asia/Kolkata",
+"static1":{
+    "Color": "Blue"
+   }
+}

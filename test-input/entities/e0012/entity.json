@@ -1,0 +1,25 @@
+{
+   "name": "campbell",
+   "type": "${defaultPrefix}.City",
+   "description": "SFO",
+   "Area": "1000 sq.ft",
+   "static1":   {
+    "Color": "Blue"
+    
+   },
+   "static2":   {
+    "number": "800"
+    
+   },
+   "static3":   {
+    "number": "900"
+    
+   },
+   "static4":   {
+    "Color": "Green"
+    
+   }
+   
+   
+   
+}

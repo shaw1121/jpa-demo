@@ -1,0 +1,11 @@
+{
+"name": "Entity Instance EI0064",
+"type": "${defaultPrefix}.PublicTen1EntNV0064",
+"description": "Entity Instance EI0064 using propertyset",
+"PublicDirect1": "Direct Property 1 of Tenant",
+"timezone" : "Asia/Kolkata",
+"PublicStatic1":{
+	"T1StaticProp1": "PropertySet Property 1",
+    "T1StaticProp2": "2100"
+   }
+}

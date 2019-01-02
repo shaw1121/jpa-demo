@@ -1,0 +1,10 @@
+{
+	"name": "Wells Fargo Santa Clara",
+	"type": "${defaultPrefix}.Bank",
+	"description": "Bank",
+	"Transaction": "Credit",
+	"Employees": "10",
+	"static": {
+		"T1Prop1": "Blue"
+	}
+}

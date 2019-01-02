@@ -1,0 +1,45 @@
+{
+"name": "PublicBaseTen1ET317",
+"scope": "public",
+"description": "Public Base Entitytype 317",
+"properties": [
+	{
+	"name": "PublicDirect1ET317",
+	"type": "int",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "PublicDirect2ET317",
+	"type": "long",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "PublicDirect3ET317",
+	"type": "String",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "PublicDirect4ET317",
+	"type": "timestamp",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PublicStatic1",
+	"propertySetType": "${defaultPrefix}.propsetStatic1"
+	},
+	{
+	"name": "PublicStatic2",
+	"propertySetType": "${defaultPrefix}.propsetStatic2"
+	},
+	{
+	"name": "PublicDynamic1",
+	"propertySetType": "${defaultPrefix}.propsetDynamic1"
+  	}	
+]
+}

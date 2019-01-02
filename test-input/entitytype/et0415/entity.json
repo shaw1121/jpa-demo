@@ -1,0 +1,11 @@
+{
+"name": "Entity Instance EI0415",
+"type": "${defaultPrefix}.PublicTen1Ent0415",
+"description": "Entity Instance EI0415 using propertyset",
+"PublicDirect1": "Direct Property 1 of Tenant",
+"timezone" : "Africa/Harare",
+"PublicStatic1":{
+	"T1StaticProp1": "PropertySet Property 1",
+    "T1StaticProp2": "2765.90"
+   }
+}

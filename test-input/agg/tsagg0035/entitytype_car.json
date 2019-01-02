@@ -1,0 +1,19 @@
+{
+      "id": "Ten0001.car_id0035",
+      "name": "Base_tenant_agg_rs_Prefix0035_car_temp_name",
+      "description": "Base_tenant_agg_rs_Prefix0035_car_template_name",
+      "scope": "public",
+      "properties": [
+        {
+          "name": "manufacturer",
+          "type": "String",
+          "length": "255"
+        }
+      ],
+      "propertySets": [
+        {
+          "name": "vehicle_id0035",
+          "propertySetType": "Ten0001.vehicle_id0035"
+        }
+      ]
+    }

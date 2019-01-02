@@ -1,0 +1,11 @@
+{
+"name": "PublicBaseETRW0076",
+"scope": "public",
+"description": "Public Base Entitytype Reserved 0076",
+"propertySets": [
+  {
+   "name": "$MarkForDeleteTime",
+   "propertySetType": "${defaultPrefix}.propsetReservedP0076"
+  }
+]
+}

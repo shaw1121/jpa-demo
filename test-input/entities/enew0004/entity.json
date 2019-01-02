@@ -1,0 +1,10 @@
+{
+"name": "Bangalore",
+"type": "${defaultPrefix}.City",
+"description": "IT City",
+"Area": "23000 sq.ft",
+"timezone" : "Asia/Kolkata",
+"static1":{
+    "Color": "Blue"
+   }
+}

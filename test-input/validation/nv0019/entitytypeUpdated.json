@@ -1,0 +1,42 @@
+{
+
+"name": "subentpropset19",
+"scope": "public",
+
+"description": "subentitytype19",
+
+"properties": [
+  
+	{
+	"name": "Height",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	  
+	{
+	"name": "Width",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+  
+	{
+	"name": "subentitypropset19",
+	"propertySetType": "${defaultPrefix}.nvpropset19"
+
+	
+	}
+	
+
+	
+],
+"extends": "${defaultPrefix}.entpropset19"
+
+
+}

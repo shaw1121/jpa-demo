@@ -1,0 +1,36 @@
+{
+    "id": "${defaultPrefix}.aseawheels002",
+    "name": "aseawheels002",
+    "eTag": null,
+    "tenant": "Tenant1",
+    "description": "sample property set",
+    "category": "static",
+    "scope": "private",
+    "properties": [
+        {
+            "name": "asWeight",
+            "type": "long",
+            "searchable": "Y",
+            "length": 100,
+            
+            "qualityCode": "N"
+        },
+       
+        {
+            "name": "asHeight",
+            "type": "long",
+            "searchable": "Y",
+            "length": 100,
+            
+            "qualityCode": "N"
+        },
+        {
+            "name": "asWidth",
+            "type": "long",
+            "searchable": "Y",
+            "length": 100,
+            
+            "qualityCode": "N"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+	"name": "chase3",
+	"type": "${defaultPrefix}.Bank2",
+	"description": "Bank2",
+	"employees": "1000",
+	"locker": "true",
+	"statictenant2": {
+		"T1Prop1": "Blue",
+		"T1Prop2": "100"
+	}
+}

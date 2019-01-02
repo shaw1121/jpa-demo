@@ -1,0 +1,26 @@
+{
+"name": "PrivateTen2EntNV0050",
+"scope": "private",
+"description": "Private Base Entitytype 0050",
+"properties": [
+	{
+	"name": "PrivateDirect1",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	{
+	"name": "PrivateDirect2",
+	"type": "INT",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PrivateStatic1",
+	"propertySetType": "${secondTenPrefix}.propsetStaticNV0050"
+	}	
+]
+}

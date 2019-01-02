@@ -1,0 +1,40 @@
+{
+
+"name": "entpropset11",
+"scope": "private",
+
+"description": "entitytype11",
+
+"properties": [
+  
+	{
+	"name": "Area",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	  
+	{
+	"name": "Population",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+  
+	{
+	"name": "entitypropset11",
+	"propertySetType": "${defaultPrefix}.nvpropset11"
+
+	
+	}
+	
+
+	
+]
+
+}

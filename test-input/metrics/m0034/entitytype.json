@@ -1,0 +1,13 @@
+{
+"name": "PublicBaseMetric",
+"scope": "public",
+"description": "Public Base Entitytype Metric",
+"properties": [
+	{
+	"name": "PublicDirect",
+	"type": "long",
+	"length": "100",
+	"searchable": "Y"
+	}
+]
+}

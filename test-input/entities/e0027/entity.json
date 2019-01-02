@@ -1,0 +1,14 @@
+{
+	"name": "Yellow Stone",
+	"type": "${defaultPrefix}.NationalParksAll",
+	"description": "Yellow Stone",
+	"Area": "1000",
+	"date": "2016-01-03T16:00:00+05:00",
+	"numberofemployees": "10",
+	"hourlyrate": "15",
+	"security": "true",
+	"staticpark": {
+		"T1Prop3": "Blue",
+		"T1Prop4": "100"
+	}
+}

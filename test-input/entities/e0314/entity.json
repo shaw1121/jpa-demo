@@ -1,0 +1,15 @@
+{
+   "name": "Entity Instance EI314",
+   "type": "${defaultPrefix}.PublicSubTen1ET314",
+   "description": "Entity Instance EI314 using propertyset",
+   "PublicDirect1ET314" : "Direct Property ET314",
+   "PublicDirect2ET314" : "650",
+   "PublicStatic1" : {
+   "T1Prop1" : "Base Propset Property 1 ET314",
+   "T1Prop2" : "1267"
+   },
+   "PublicStatic3" : {
+   "T1Prop5" : "Base Propset Property 5 ET314",
+   "T1Prop6" : "103265"
+   }
+}

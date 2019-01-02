@@ -1,0 +1,15 @@
+{
+    "name": "udapPropsetDynamic0037",
+    "description": "udapPropsetDynamic0037 property set",
+    "category": "dynamic",
+    "scope": "public",
+    "properties": [
+       {
+      "name" : "T1DynamicProp1",
+      "type" : "TIMESTAMP",
+      "searchable" : "Y",
+      "length" : 100,
+      "qualityCode" : "N"
+    	}
+    ]
+}

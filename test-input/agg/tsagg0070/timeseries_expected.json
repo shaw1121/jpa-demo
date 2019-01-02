@@ -1,0 +1,32 @@
+[
+    {
+        "width": {
+            "firsttime": "2015-05-01T00:10:00Z",
+            "average": 4500,
+            "lasttime": "2015-05-01T00:10:00Z",
+            "maxvalue": 4500,
+            "firstvalue": 4500,
+            "mintime": "2015-05-01T00:10:00Z",
+            "lastvalue": 4500,
+            "count": 1,
+            "sum": 4500,
+            "minvalue": 4500,
+            "maxtime": "2015-05-01T00:10:00Z"
+        },
+        "length": {
+            "firsttime": "2015-05-01T00:10:00Z",
+            "average": 80,
+            "lasttime": "2015-05-01T00:10:00Z",
+            "maxvalue": 80,
+            "firstvalue": 80,
+            "mintime": "2015-05-01T00:10:00Z",
+            "lastvalue": 80,
+            "count": 1,
+            "sum": 80,
+            "minvalue": 80,
+            "maxtime": "2015-05-01T00:10:00Z"
+        },
+        "starttime": "2015-05-01T00:08:00Z",
+        "endtime": "2015-05-01T00:10:00Z"
+    }
+]

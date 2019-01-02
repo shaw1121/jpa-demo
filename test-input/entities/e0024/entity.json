@@ -1,0 +1,14 @@
+{
+	"name": "Wells Fargo cupertino",
+	"type": "${defaultPrefix}.Bank",
+	"description": "Bank",
+	"Transaction": "Credit",
+	"Employees": "10",
+	"static": {
+		"T1Prop1": "Blue",
+		"T1Prop2": "100"
+	},
+	"dynamic": {
+		"T1DynamicProp10": "800"
+	}
+}

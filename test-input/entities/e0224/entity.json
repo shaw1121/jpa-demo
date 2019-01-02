@@ -1,0 +1,7 @@
+{
+   "name": "Entity Instance EI224",
+   "type": "${defaultPrefix}.PublicBaseTen1ET224",
+   "description": "Entity Instance EI224 using property",
+   "PublicDirect1ET224" : "63014",
+   "PublicDirect2ET224" : "4871"
+}

@@ -1,0 +1,6 @@
+{
+	"name": "Entity Instance Reserved 0011",
+	"type": "${defaultPrefix}.PublicBaseETRW0011",
+	"description": "Entity Instance Reserved 0011 using markForDeleteTime",
+	"markForDeleteTime": "new query"
+}

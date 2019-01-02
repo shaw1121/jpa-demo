@@ -1,0 +1,17 @@
+{
+    "id": "${secondTenPrefix}.propsetDynamic66",
+    "name": "propsetDynamic66",
+    "description": "propsetDynamic66 property set",
+    "category": "dynamic",
+    "scope": "private",
+    "properties": [
+       {
+      "name" : "BigString66",
+      "type" : "BIG_STRING",
+      "searchable" : "Y",
+      
+      "qualityCode" : "N"
+    	}
+    	
+    ]
+}

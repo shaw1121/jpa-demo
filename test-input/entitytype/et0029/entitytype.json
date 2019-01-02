@@ -1,0 +1,19 @@
+{
+    "name": "MachineET29",
+    "scope": "public",
+    "description": "Public Base Entitytype 29",
+    "properties": [
+        {
+            "name": "PublicDirect29",
+            "type": "string",
+            "length": 100,
+            "searchable": "Y"
+        },
+        {
+            "name": "PublicDirect290",
+            "type": "long",
+            "length": 100,
+            "searchable": "Y"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+	"name": "Entity Instance Reserved 0085",
+	"type": "${defaultPrefix}.PublicBaseETRW0085",
+	"description": "Entity Instance Reserved 0085 using SELECT",
+	"SELECT": "new query"
+}

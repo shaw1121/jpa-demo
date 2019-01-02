@@ -1,0 +1,11 @@
+{
+"name": "t",
+"type": "${defaultPrefix}.t",
+"description": "Entity Instance  using propertyset t",
+"PublicDirect1": "Direct Property 1 of Tenant",
+"timezone" : "Asia/Kolkata",
+"PublicStatic1":{
+	"T1StaticProp1": "PropertySet Property 1",
+    "T1StaticProp2": "2100"
+   }
+}

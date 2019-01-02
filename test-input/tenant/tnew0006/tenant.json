@@ -1,0 +1,13 @@
+{
+  "externalId":"tenant_extId6",
+  "identityId":"tenantNew6",
+  "name": "tenant-New6",
+  "typePrefix":"tenNew6",
+	"configuration": {
+	    
+	    "aggregate": {
+	      
+	      "goodThreshold": 192
+	    }  
+	}
+} 

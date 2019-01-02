@@ -1,0 +1,39 @@
+{
+"name": "PrivateSubET10",
+"scope": "private",
+"description": "Private Sub Entitytype 10",
+"extends": "${defaultPrefix}.PrivateBaseET08",
+"properties": [
+	{
+	"name": "PrivateDirect7",
+	"type": "long",
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	{
+	"name": "PrivateDirect8",
+	"type": "double",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PrivateStatic7",
+	"propertySetType": "${defaultPrefix}.propsetStatic7"
+	},
+	{
+    "name": "PrivateStatic8",
+    "propertySetType": "${defaultPrefix}.propsetStatic8"
+  },
+{
+"name": "PrivateDynamic7",
+"propertySetType": "${defaultPrefix}.propsetDynamic7"
+  },
+    {
+    "name": "PrivateDynamic8",
+    "propertySetType": "${defaultPrefix}.propsetDynamic8"
+  }	
+]
+}

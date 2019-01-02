@@ -1,0 +1,7 @@
+{
+"name": "PublicTen1subEnt_0017",
+"scope": "public",
+"description": "� Public sub Entitytype 0017",
+"extends": "${defaultPrefix}.PublicTen1Ent_0017"
+
+}

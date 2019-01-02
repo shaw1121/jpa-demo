@@ -1,0 +1,1 @@
+Verify get aggregation for entity present

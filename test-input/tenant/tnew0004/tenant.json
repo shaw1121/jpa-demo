@@ -1,0 +1,12 @@
+{
+  "externalId":"tenant_extId4",
+  "identityId":"tenantNew4",
+  "name": "tenant-New4",
+  "typePrefix":"tenNew4",
+	"configuration": {
+	    
+	    "timeSeries": {
+	      "hotStorageHours": 168
+	    }
+	}
+} 

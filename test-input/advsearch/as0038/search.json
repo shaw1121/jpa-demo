@@ -1,0 +1,77 @@
+{
+   "name": "BMW Z Series",
+   "type": "${defaultPrefix}.ASBMW",
+   "offset":0,
+   "limit":10,
+   "count":true,
+   "select":[
+   "description",
+   "ASMake",
+   "ASModel",
+   "ASEnginePower",
+   "ASVin",
+   "ASDoor",
+   "ASYear",
+   "ASElectric"
+   ],
+   "order": [
+   {
+   "name": "ASVin",
+   "order": "ASC"
+   },
+   {
+   "name":"ASRFwheel.ASWeight",
+   "order": "ASC"
+   }
+   
+   ],
+   "filter": {
+    "type" : "LOGICAL",
+   
+   "operator": "or",
+	"expressions": [
+		{
+			"type": "LOGICAL",
+			"operator": "and",
+			"expressions": [
+				{
+					"type": "BOOLEAN",
+					"operator": "eq",
+					"property": "ASRseat.Color",
+					"value": "Blue"
+				},
+				{
+					"type": "LOGICAL",
+					"operator": "and",
+					"expressions": [
+						{
+							"type": "BOOLEAN",
+							"operator": "gt",
+							"property": "ASRFwheel.ASHeight",
+							"value": "100"
+						},
+						{
+							"type": "BOOLEAN",
+							"operator": "lt",
+							"property": "ASEnginePower",
+							"value": "50"
+						}
+						]
+				}
+				
+				]
+		},
+		{
+			"type": "BOOLEAN",
+			"operator": "ne",
+			"property": "parent",
+			"value": "Y"
+		}
+		]
+  },
+"group": [
+	]
+	
+  
+}
+   

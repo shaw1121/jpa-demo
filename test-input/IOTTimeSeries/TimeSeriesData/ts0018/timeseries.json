@@ -1,0 +1,46 @@
+[
+  {
+    "_time": "2017-01-10T00:00:00Z",
+      "carmanual": "Test"
+  },
+  {
+    "_time": "2017-01-10T01:00:00Z",
+      "rpm": 5000.5
+  },
+  {
+    "_time": "2017-01-10T02:00:00Z",
+      "foglamps": false
+  },
+  {
+    "_time": "2017-01-10T03:00:00Z",
+      "foglamps": false
+  },
+  {
+    "_time": "2017-01-10T04:00:00Z",
+      "foglamps": false
+  },
+  {
+    "_time": "2017-01-10T05:00:00Z",
+      "foglamps": false
+  },
+  {
+    "_time": "2017-01-10T06:00:00Z",
+      "foglamps": false
+  },
+  {
+    "_time": "2017-01-10T07:00:00Z",
+      "foglamps": false
+  },
+  {
+    "_time": "2017-01-10T08:00:00Z",
+      "foglamps": false
+  },
+  {
+    "_time": "2017-01-10T09:00:00Z",
+      "foglamps": false
+  },
+  {
+    "_time": "2017-01-10T10:00:00Z",
+      "foglamps": false
+  }
+]

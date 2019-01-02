@@ -1,0 +1,30 @@
+{
+"name": "PublicSubTen1ET306",
+"scope": "public",
+"description": "Public Sub Entitytype 306",
+"extends" : "${defaultPrefix}.PublicBaseTen1ET306",
+"properties": [
+	{
+	"name": "PublicSubDirect1ET306",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "PublicSubDirect2ET306",
+	"type": "LONG",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PrivateStatic7",
+	"propertySetType": "${defaultPrefix}.propsetStatic7"
+	},
+	{
+	"name": "PrivateStatic8",
+	"propertySetType": "${defaultPrefix}.propsetStatic8"
+  	}	
+]
+}

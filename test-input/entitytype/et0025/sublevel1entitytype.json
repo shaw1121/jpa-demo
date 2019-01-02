@@ -1,0 +1,14 @@
+{
+"name": "PrivateSubLevel1ET25",
+"scope": "private",
+"description": "Private Sub Level 1 Entitytype 25",
+"extends": "${defaultPrefix}.PublicParentBaseET25",
+"properties": [
+	{
+	"name": "PrivateSingleDirect2",
+	"type": "string",
+	"length": "100",
+	"searchable": "Y"
+	}
+]
+}

@@ -1,0 +1,28 @@
+{
+  "externalId":"Base_tenant_agg_rs_agg0001",
+  "identityId": "Base_tenant_agg_rs_agg0001",
+  "name": "Base_tenant_agg_rs_agg0001",
+  "typePrefix":"Ten0001",
+          "eTag": 1,
+        "configuration": {
+            "timeSeries": {
+                "hotStorageHours": "168"
+            },
+            "entity": {
+                "defaultTimezone": "America/New_York"
+            },
+            "aggregate": {
+                "goodThreshold": "192",
+                "firstDayOfWeek": "Monday",
+                "uncertainThreshold": "64"
+            }
+        },
+        "resources": {
+            "fileStorage": "S3-bucket-name",
+            "coldStorageTimeseries": "S3-bucket-name",
+            "hotStorageTimeSeries": "cts_data",
+            "workItem": "cwi-table",
+            "hotStorageAggregates": "aggregate-data"
+        }
+  
+} 

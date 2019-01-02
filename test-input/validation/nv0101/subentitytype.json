@@ -1,0 +1,27 @@
+{
+"name": "PrivateSubTen1EntNV0101",
+"scope": "private",
+"description": "Private Sub Entitytype 0101",
+"extends": "${defaultPrefix}.PublicTen1EntNV0101",
+"properties": [
+	{
+	"name": "PrivateSubDirect1NV0101",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	{
+	"name": "PrivateSubDirect2NV0101",
+	"type": "INT",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PrivateSubStatic1",
+	"propertySetType": "${secondTenPrefix}.propsetStaticNV01011"
+	}	
+]
+}

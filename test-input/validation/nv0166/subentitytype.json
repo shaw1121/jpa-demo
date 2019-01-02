@@ -1,0 +1,27 @@
+{
+"name": "PublicTen1SubEntNV0166",
+"scope": "public",
+"description": "Public Sub Entitytype 0166",
+"extends" : "${defaultPrefix}.PublicTen1EntNV0166",
+"properties": [
+	{
+	"name": "PublicSubDirect1",
+	"type": "ULONG",
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	{
+	"name": "PublicSubDirect2",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PublicSubStatic1",
+	"propertySetType": "${defaultPrefix}.propsetStaticNV0166"
+	}	
+]
+}

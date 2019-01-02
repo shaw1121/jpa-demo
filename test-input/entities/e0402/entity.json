@@ -1,0 +1,6 @@
+{
+   "name": "Delhi",
+   "type": "${defaultPrefix}.City",
+   "description": "New Delhi",
+   "Area": "16840 sq.ft"
+}

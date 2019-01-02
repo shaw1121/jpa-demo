@@ -1,0 +1,14 @@
+{
+    "name": "nvpropset137",
+    "description": "nvpropset137 property set",
+    "category": "dynamic",
+    "scope": "public",
+    "properties": [
+        {
+            "name": "Property1",
+            "type": "STRING",
+            "searchable": "FALSE",
+            "length": 100
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+
+"name": "Bank",
+"scope": "public",
+
+"description": "Bank",
+
+"properties": [
+  
+	{
+	"name": "area",
+	"type": "String",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	  
+	{
+	"name": "width",
+	"type": "int",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+
+"propertySets": [
+  
+	
+	{
+	"name": "statictenant2",
+	"propertySetType": "${secondTenPrefix}.propsetStatic1"
+
+	
+	}
+	]
+
+
+}

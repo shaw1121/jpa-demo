@@ -1,0 +1,10 @@
+{
+"name": "Entity EI Physical 0004",
+"type": "${defaultPrefix}.PublicTen1EntP0004",
+"description": "Sample Entity Four",
+"PublicDirect1": "Direct Property 1",
+"timezone" : "Europe/Zurich",
+"PublicStatic1":{
+    "T1StaticProp1": "PropertySet Property 1"
+   }
+}

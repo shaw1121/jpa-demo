@@ -1,0 +1,10 @@
+{
+"name": "New York",
+"type": "${defaultPrefix}.City",
+"description": "The Description Of this Entity Instance is Too Long To Be Qualified As Entity Instance Hence This Case Will Fail And Give 400 Bad Request As The Description Is Beyond Certain Limit Maximum Limit Defined for description is 255 characters which is getting exceeded",
+"Area": "1000 sq.ft",
+"timezone" : "America/New_York",
+"static1":{
+    "Color": "Blue"
+   }
+}

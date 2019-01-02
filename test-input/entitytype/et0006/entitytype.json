@@ -1,0 +1,39 @@
+{
+"name": "BuildingET06",
+"scope": "public",
+"description": "Public Sub Entitytype 06",
+"extends": "${defaultPrefix}.MachineET04",
+"properties": [
+	{
+	"name": "PublicDirect7",
+	"type": "string",
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	{
+	"name": "PublicDirect8",
+	"type": "boolean",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PublicStatic7",
+	"propertySetType": "${defaultPrefix}.propsetStatic3"
+	},
+	{
+    "name": "PublicStatic8",
+    "propertySetType": "${defaultPrefix}.propsetStatic4"
+  },
+{
+"name": "PublicDynamic7",
+"propertySetType": "${defaultPrefix}.propsetDynamic3"
+  },
+    {
+    "name": "PublicDynamic8",
+    "propertySetType": "${defaultPrefix}.propsetDynamic4"
+  }	
+]
+}

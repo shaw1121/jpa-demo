@@ -1,0 +1,9 @@
+{
+"name": "Entity Instance MT0003",
+"type": "${defaultPrefix}.PublicTen1EntMT0003",
+"description": "Entity Instance MT0003 using parent tenant credentials",
+"PublicDirect2" : "true",
+"PublicStatic1":{
+    "T1StaticProp2": 1450
+   }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "propset6",
+    "description": "sample property set",
+    "category": "static",
+    "scope": "private",
+    "properties": [
+        {
+            "name": "string1",
+            "type": "STRING",
+            "searchable": "Y",
+            "length": 100,
+            
+            "qualityCode": "N"
+        },
+        {
+            "name": "number1",
+            "type": "INT",
+            "searchable": "Y",
+            "length": 100,
+            
+            "qualityCode": "N"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+
+"name": "entpropset30",
+"scope": "public",
+
+"description": "entitytype30",
+
+"properties": [
+  
+	{
+	"name": "Areaupdate",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	  
+	{
+	"name": "Populationupdate",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+  
+	{
+	"name": "entitypropset30",
+	"propertySetType": "${defaultPrefix}.nvpropset30"
+
+	
+	}
+	
+
+	
+]
+
+}

@@ -1,0 +1,6 @@
+{
+	"name": "Entity Instance Reserved 0088",
+	"type": "${defaultPrefix}.PublicBaseETRW0088",
+	"description": "Entity Instance Reserved 0088 using lastUpdBy",
+	"lastUpdBy": "default tenant"
+}

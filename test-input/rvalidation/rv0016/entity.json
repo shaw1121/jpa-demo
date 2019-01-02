@@ -1,0 +1,6 @@
+{
+	"name": "Entity Instance Reserved 0016",
+	"type": "${defaultPrefix}.PublicBaseETRW0016",
+	"description": "Entity Instance Reserved 0016 using createdBy",
+	"createdBy": "new query"
+}

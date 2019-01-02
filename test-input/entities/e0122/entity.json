@@ -1,0 +1,13 @@
+{
+   "name": "Entity Instance EI122 Inst 1",
+   "type": "${defaultPrefix}.PublicBaseTen1ET122",
+   "description": "Entity Instance EI122 using direct properties",
+   "PublicStatic1": {
+   "T1Prop1" : "${defaultPrefix} PropertySet 1",
+   "T1Prop2" : "725"
+   },
+   "PublicStatic2": {
+   "T1Prop11" : "951",
+   "T1Prop12" : "2048.49"
+   }
+}

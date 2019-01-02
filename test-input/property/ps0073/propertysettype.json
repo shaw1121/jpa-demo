@@ -1,0 +1,23 @@
+{
+    "name": "propsetDynamic73",
+    "description": "propsetDynamic73 property set",
+    "category": "dynamic",
+    "scope": "private",
+    "properties": [
+       {
+      "name" : "BigString73",
+      "type" : "BIG_STRING",
+      "searchable" : "Y",
+      "length" : 55555,
+      "qualityCode" : "N"
+    	},
+    	 {
+      "name" : "BigString73a",
+      "type" : "BIG_STRING",
+      "searchable" : "Y",
+      "length" : 44445,
+      "qualityCode" : "N"
+    	}
+    	
+    ]
+}

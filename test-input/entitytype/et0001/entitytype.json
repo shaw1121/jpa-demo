@@ -1,0 +1,61 @@
+{
+
+"name": "City",
+"scope": "private",
+
+"description": "entitytype1",
+
+"properties": [
+  
+	{
+	"name": "Area",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	  
+	{
+	"name": "Population",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+  
+	{
+	"name": "static1",
+	"propertySetType": "${defaultPrefix}.propsetp1"
+
+	
+	},
+	{
+    "name": "static2",
+    "propertySetType": "${defaultPrefix}.propset3"
+  
+ 
+
+  },
+
+{
+"name": "static3",
+"propertySetType": "${defaultPrefix}.propset3"
+
+
+
+  },
+    {
+    "name": "static4",
+    "propertySetType": "${defaultPrefix}.propsetp1"
+  
+ 
+
+  }
+
+	
+]
+
+}

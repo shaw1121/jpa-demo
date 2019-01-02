@@ -1,0 +1,1 @@
+Verify get aggregation for property with qc countuncertain,countbad,countgood

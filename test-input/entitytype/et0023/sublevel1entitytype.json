@@ -1,0 +1,14 @@
+{
+"name": "PublicSubLevel1ET23",
+"scope": "public",
+"description": "Public Sub Level 1 Entitytype 23",
+"extends": "${defaultPrefix}.PublicParentBaseET23",
+"properties": [
+	{
+	"name": "PublicSingleDirect2",
+	"type": "string",
+	"length": "100",
+	"searchable": "Y"
+	}
+]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "propsetStatic6",
+    "description": "propsetStatic6 property set",
+    "category": "static",
+    "scope": "private",
+    "properties": [
+       {
+      "name" : "T2Prop11",
+      "type" : "INT",
+      "searchable" : "Y",
+      "length" : 100,
+      "qualityCode" : "N"
+    	},
+    	{
+      "name" : "T2Prop12",
+      "type" : "DOUBLE",
+      "searchable" : "Y",
+      "length" : 100,
+      "qualityCode" : "Y"
+    	}
+    ]
+}

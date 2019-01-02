@@ -1,0 +1,9 @@
+{
+"name": "TheNameOfThisEntityInstanceIsTooLongToBeQualifiedAsEntityInstanceHenceThisCaseWillFailAndGive400BadrequestAsTheNameIsBeyondCertainLimit",
+"type": "${defaultPrefix}.City",
+"description": "Name too long",
+"Area": "1000 sq.ft",
+"static1":{
+    "Color": "Blue"
+   }
+}

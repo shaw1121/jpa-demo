@@ -1,0 +1,9 @@
+{
+   "name": "Entity Instance EI319",
+   "type": "${defaultPrefix}.PublicBaseTen1ET318",
+   "description": "Entity Instance EI319 using property",
+   "PublicStatic2" : {
+   "T1Prop3" : "Type changed intentionally of T1Prop4",
+   "T1Prop4" : "120366.4105"
+   }
+}

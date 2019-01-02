@@ -1,0 +1,16 @@
+{
+    "name": "propsetDynamic67",
+    "description": "propsetDynamic67 property set",
+    "category": "dynamic",
+    "scope": "private",
+    "properties": [
+       {
+      "name" : "BigString67",
+      "type" : "BIG_STRING",
+      "searchable" : "Y",
+      "length" : 1,
+      "qualityCode" : "N"
+    	}
+    	
+    ]
+}

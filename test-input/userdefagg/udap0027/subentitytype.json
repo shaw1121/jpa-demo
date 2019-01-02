@@ -1,0 +1,33 @@
+{
+"name": "UdapEntitytypeDynamic00271",
+"scope": "public",
+"description": "Public Entitytype User Defined Aggregation Period",
+"extends" : "${defaultPrefix}.UdapEntitytypeDynamic0027",
+"properties": [
+	{
+	"name": "PublicSubDirect1",
+	"type": "string",
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	{
+	"name": "PublicSubDirect2",
+	"type": "double",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PublicDynamic2",
+	"propertySetType": "${defaultPrefix}.udapPropsetDynamic0027",
+	"aggregationIntervals": 
+  		{	
+			"seconds": 3, 
+            "minutes": 30,
+            "hours": 1
+  		}
+	}
+]
+}

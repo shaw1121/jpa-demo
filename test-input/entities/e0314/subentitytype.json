@@ -1,0 +1,34 @@
+{
+"name": "PublicSubTen1ET314",
+"scope": "public",
+"description": "Public Sub Entitytype 314",
+"extends" : "${defaultPrefix}.PublicBaseTen1ET314",
+"properties": [
+	{
+	"name": "PublicSubDirect1ET314",
+	"type": "BOOLEAN",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "PublicSubDirect2ET314",
+	"type": "LONG",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PublicStatic3",
+	"propertySetType": "${defaultPrefix}.propsetStatic3"
+	},
+	{
+	"name": "PublicStatic4",
+	"propertySetType": "${defaultPrefix}.propsetStatic4"
+	},
+	{
+	"name": "PublicDynamic3",
+	"propertySetType": "${defaultPrefix}.propsetDynamic3"
+  	}	
+]
+}

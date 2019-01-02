@@ -1,0 +1,11 @@
+{
+"name": "PublicBaseETRW0067",
+"scope": "public",
+"description": "Public Base Entitytype Reserved 0067",
+"propertySets": [
+  {
+   "name": "Parent",
+   "propertySetType": "${defaultPrefix}.propsetReservedP0067"
+  }
+]
+}

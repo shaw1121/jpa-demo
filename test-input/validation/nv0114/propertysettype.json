@@ -1,0 +1,15 @@
+{
+    "name": "nvpropset114",
+    "description": "nvpropset114 property set",
+    "category": "dynamic",
+    "scope": "public",
+    "properties": [
+        {
+            "name": "September1990End",
+            "type": "STRING",
+            "searchable": "Y",
+            "length": 100,
+            "qualityCode": "N"
+        }
+    ]
+}

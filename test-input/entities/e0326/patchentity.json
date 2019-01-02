@@ -1,0 +1,5 @@
+{
+   "name": "Entity Instance EI326",
+   "type": "${defaultPrefix}.PublicBaseTen1ET326",
+   "PublicStaticNotPresent": "Property Not present in entitytype"
+}

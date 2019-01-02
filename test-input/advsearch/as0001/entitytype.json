@@ -1,0 +1,46 @@
+{
+
+"name": "aseacars001",
+"scope": "public",
+
+"description": "entitytype1",
+
+"properties": [
+  
+	{
+	"name": "ASMake",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	  
+	{
+	"name": "ASModel",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+  
+	{
+	"name": "ASRFwheel",
+	"propertySetType": "${defaultPrefix}.aseawheels001111"
+
+	
+	},
+	{
+	"name": "ASLFwheel",
+	"propertySetType": "${defaultPrefix}.aseawheels001111"
+
+	
+	}
+	
+	
+	
+]
+
+}

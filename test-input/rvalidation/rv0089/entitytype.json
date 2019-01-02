@@ -1,0 +1,13 @@
+{
+"name": "Created",
+"scope": "public",
+"description": "Public Base Entitytype Reserved 0089",
+"properties": [
+	{
+	"name": "Created",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	}
+]
+}

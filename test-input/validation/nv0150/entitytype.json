@@ -1,0 +1,13 @@
+{
+"name": "PublicTen1EntNV0150",
+"scope": "public",
+"description": "Public Base Entitytype 0150",
+"properties": [
+	{
+	"name": "_name",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	}
+]
+}

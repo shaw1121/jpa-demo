@@ -1,0 +1,40 @@
+{
+
+"name": "entpropset36",
+"scope": "public",
+
+"description": "entitytype36",
+
+"properties": [
+  
+	{
+	"name": "Area",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	  
+	{
+	"name": "Population",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+  
+	{
+	"name": "entitypropset36",
+	"propertySetType": "${defaultPrefix}.nvpropset36"
+
+	
+	}
+	
+
+	
+]
+
+}

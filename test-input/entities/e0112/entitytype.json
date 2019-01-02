@@ -1,0 +1,31 @@
+{
+"name": "PublicBaseTen1ET112",
+"scope": "public",
+"description": "Public Base Entitytype 112",
+"properties" : [
+{
+	"name": "PublicDirect1ET112",
+	"type": "String",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PublicStatic1",
+	"propertySetType": "${defaultPrefix}.propsetStatic1"
+	},
+	{
+    "name": "PublicStatic2",
+    "propertySetType": "${defaultPrefix}.propsetStatic5"
+  	},
+	{
+	"name": "PublicDynamic1",
+	"propertySetType": "${defaultPrefix}.propsetDynamic1"
+  	},
+    {
+    "name": "PublicDynamic2",
+    "propertySetType": "${defaultPrefix}.propsetDynamic5"
+  	}	
+]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "${defaultPrefix}.aseaseat003",
+    "name": "aseaseat003",
+    "eTag": null,
+    "tenant": "Tenant1",
+    "description": "sample property set",
+    "category": "static",
+    "scope": "private",
+    "properties": [
+        {
+            "name": "asLeather",
+            "type": "boolean",
+            "searchable": "Y",
+            "length": 100,
+            
+            "qualityCode": "N"
+        },
+       
+        {
+            "name": "asMassage",
+            "type": "boolean",
+            "searchable": "Y",
+            "length": 100,
+            
+            "qualityCode": "N"
+        },
+        {
+            "name": "asColor",
+            "type": "String",
+            "searchable": "Y",
+            "length": 100,
+            
+            "qualityCode": "N"
+        },
+        {
+            "name": "asHeight",
+            "type": "String",
+            "searchable": "Y",
+            "length": 100,
+            
+            "qualityCode": "N"
+        }
+    ]
+}

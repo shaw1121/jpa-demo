@@ -1,0 +1,38 @@
+{
+    "id": "${defaultPrefix}.City",
+    "name": "entitytypen0006",
+    "scope": "private",
+    "description": "entitytype1",
+    "properties": [
+        {
+            "name": "Area",
+            "type": "STRING",
+            "length": 100,
+            "searchable": "Y"
+        },
+        {
+            "name": "Population",
+            "type": "STRING",
+            "length": 100,
+            "searchable": "Y"
+        }
+    ],
+    "propertySets": [
+        {
+            "name": "static2",
+            "propertySetType": "${defaultPrefix}.propsetn0006a"
+        },
+        {
+            "name": "static1",
+            "propertySetType": "${defaultPrefix}.propsetn0006a"
+        },
+        {
+            "name": "static4",
+            "propertySetType": "${defaultPrefix}.propsetn0006a"
+        },
+        {
+            "name": "static3",
+            "propertySetType": "${defaultPrefix}.propsetn0006a"
+        }
+    ]
+}

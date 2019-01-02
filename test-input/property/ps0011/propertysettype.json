@@ -1,0 +1,16 @@
+{
+    "name": "propsetp11",
+    "description": "sample property set",
+    "category": "static",
+    "scope": "private",
+    "properties": [
+        {
+            "name": "date",
+            "type": "TIMESTAMP",
+            "searchable": "Y",
+            "length": 100,
+            
+            "qualityCode": "N"
+        }
+    ]
+}

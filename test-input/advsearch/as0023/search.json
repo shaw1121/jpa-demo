@@ -1,0 +1,51 @@
+{
+   "name": "BMW Z Series",
+   "type": "${defaultPrefix}.ASBMW",
+   "offset":0,
+   "limit":10,
+   "count":true,
+   "select":[
+   "description",
+   "ASMake",
+   "ASModel",
+   "ASEnginePower",
+   "ASVin",
+   "ASDoor",
+   "ASYear",
+   "ASElectric"
+   ],
+   "order": [
+   {
+   "name": "ASVin",
+   "order": "ASC"
+   },
+   {
+   "name":"ASRFwheel.ASWeight",
+   "order": "ASC"
+   }
+   
+   ],
+   "filter": {
+    "type" : "LOGICAL",
+   
+   "operator": "or",
+	"expressions": [
+		{
+			
+				
+				
+		},
+		{
+			"type": "BOOLEAN",
+			"operator": "eq",
+			"property": "ASRFwheel.ASHeight",
+			"value": "100"
+		}
+		]
+  },
+"group": [
+	]
+	
+  
+}
+   

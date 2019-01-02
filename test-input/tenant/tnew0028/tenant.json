@@ -1,0 +1,18 @@
+{
+  "externalId":"tenant_extId27",
+  "identityId": "@tenant",
+  "name": "tenant-New27",
+  "typePrefix":"tNew27",
+	"configuration": {
+	    "entity": {
+	      "defaultTimezone": "IST"
+	    },
+	    "timeSeries": {
+	      "hotStorageHours": 210
+	    },
+	    "aggregate": {
+	      "uncertainThreshold":30,
+	      "goodThreshold": 29
+	    }  
+	}
+} 

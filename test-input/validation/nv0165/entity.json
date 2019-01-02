@@ -1,0 +1,10 @@
+{
+"name": "Entity Instance EI0165",
+"type": "${defaultPrefix}.PublicTen1EntNV0165",
+"description": "Entity Instance EI0165 using ULONG",
+"PublicDirect1": "18446744073709551615",
+"timezone" : "Asia/Kolkata",
+"PublicStatic1" : {
+	"Color" : "123456"
+ }
+}

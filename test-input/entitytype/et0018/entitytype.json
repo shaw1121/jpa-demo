@@ -1,0 +1,13 @@
+{
+"name": "PublicBaseET18",
+"scope": "public",
+"description": "Public Base Entitytype 18",
+"properties": [
+	{
+	"name": "PublicSingleDirect",
+	"type": "string",
+	"length": "100",
+	"searchable": "Y"
+	}
+]
+}

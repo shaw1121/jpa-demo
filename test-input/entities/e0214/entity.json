@@ -1,0 +1,15 @@
+{
+   "name": "SFO214NonExistent",
+   "type": "${defaultPrefix}.Citynonexisting",
+   "description": "SFO214",
+   "Area": "9000 sq.ft",
+   "parent": null,
+   "static1":   {
+    "Color": "Purple"
+    
+   }
+   
+   
+   
+   
+}

@@ -1,0 +1,60 @@
+{
+  "name": "carpropset001",
+  "description": "Ten001_carpropset001_name",
+  "category": "dynamic",
+  "scope": "private",
+  "properties": [
+    {
+      "name": "rpm",
+      "type": "double",
+      "qualityCode": "Y"
+    },
+    {
+      "name": "enginetemperature",
+      "type": "long",
+	  "qualityCode": "Y"
+    },
+    {
+      "name": "foglamps",
+      "type": "boolean",
+	  "qualityCode": "Y"
+    },
+    {
+      "name": "date",
+      "type": "Timestamp",
+	  "qualityCode": "Y"
+    },
+    {
+      "name": "speed",
+      "type": "int",
+	  "qualityCode": "Y"
+    },
+    {
+      "name": "stereo",
+      "type": "string",
+	  "length": "200",
+	  "qualityCode": "Y"
+    },
+    {
+      "name": "airpressure",
+      "type": "int"
+    },
+    {
+      "name": "carmanual1",
+      "type": "big_string",
+	  "qualityCode": "Y",
+	  "length": "300"
+    },
+    {
+      "name": "carmanual2",
+      "type": "big_string",
+	  "qualityCode": "Y",
+	  "length": "300"
+    },
+    {
+      "name": "carmanual3",
+      "type": "big_string",
+      "length": "300"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+[
+  {
+    "_time": "2017-10-04T23:10:00.005Z",
+    "carmanual": "Test",
+      "enginetemperature": 80,
+      "sterio": "Sony",
+      "foglamps": false
+  }
+]

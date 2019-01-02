@@ -1,0 +1,38 @@
+{
+"name": "PlacesET03",
+"scope": "public",
+"description": "Public Base Entitytype 03",
+"properties": [
+	{
+	"name": "PublicDirect1",
+	"type": "string",
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	{
+	"name": "PublicDirect2",
+	"type": "int",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PublicStatic1",
+	"propertySetType": "${defaultPrefix}.propsetStatic1"
+	},
+	{
+    "name": "PublicStatic2",
+    "propertySetType": "${defaultPrefix}.propsetStatic5"
+  },
+{
+"name": "PublicDynamic1",
+"propertySetType": "${defaultPrefix}.propsetDynamic1"
+  },
+    {
+    "name": "PublicDynamic2",
+    "propertySetType": "${defaultPrefix}.propsetDynamic5"
+  }	
+]
+}

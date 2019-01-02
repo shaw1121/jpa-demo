@@ -1,0 +1,13 @@
+{
+"name": "PublicBaseETRW0086",
+"scope": "public",
+"description": "Public Base Entitytype Reserved 0086",
+"properties": [
+	{
+	"name": "time_to_live",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	}
+]
+}

@@ -1,0 +1,18 @@
+{
+    "externalId": "tenant_extId104",
+    "identityId": "tenantNew104",
+    "name": "tenant-New104",
+    "typePrefix": "tNew104",
+    "configuration": {
+        "entity": {
+            "defaultTimezone": "America/Los_Angeles"
+        },
+        "timeSeries": {
+            "hotStorageHours": 210
+        },
+        "aggregate": {
+            "uncertainThreshold": 30,
+            "goodThreshold": 29
+        }
+    }
+} 

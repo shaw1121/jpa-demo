@@ -1,0 +1,11 @@
+{
+	"name": "chase1",
+	"type": "${secondTenPrefix}.Bank1",
+	"description": "Bank1",
+	"Employees": "1000",
+	"Locker": "true",
+	"statictenant2": {
+		"T1Prop1": "Blue",
+		"T1Prop2": "100"
+	}
+}

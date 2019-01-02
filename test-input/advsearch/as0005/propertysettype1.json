@@ -1,0 +1,44 @@
+{
+    "id": "${defaultPrefix}.asseats",
+    "name": "asseats5",
+    "eTag": null,
+    "tenant": "Tenant1",
+    "description": "sample property set",
+    "category": "dynamic",
+    "scope": "private",
+    "properties": [
+        {
+            "name": "asLeather",
+            "type": "boolean",
+            "searchable": "Y",
+            "length": 100,
+            
+            "qualityCode": "N"
+        },
+       
+        {
+            "name": "asMassage",
+            "type": "boolean",
+            "searchable": "Y",
+            "length": 100,
+            
+            "qualityCode": "N"
+        },
+        {
+            "name": "asColor",
+            "type": "String",
+            "searchable": "Y",
+            "length": 100,
+            
+            "qualityCode": "N"
+        },
+        {
+            "name": "asHeight",
+            "type": "String",
+            "searchable": "Y",
+            "length": 100,
+            
+            "qualityCode": "N"
+        }
+    ]
+}

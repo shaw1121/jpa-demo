@@ -1,0 +1,8 @@
+{
+   "name": "Entity Instance EI308",
+   "type": "${defaultPrefix}.PublicSubTen1ET308",
+   "description": "Entity Instance EI308 using direct property",
+   "PublicSubDirect2ET308" : "2499",
+   "PublicSubDirect3ET308" : "160",
+   "PublicSubDirect4ET308" : "1099.568"
+}

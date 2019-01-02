@@ -1,0 +1,64 @@
+{
+
+"name": "District",
+"scope": "private",
+
+"description": "subtypeentitytype2",
+
+
+"properties": [
+  
+	{
+	"name": "Ethnicity",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	  
+	{
+	"name": "Literacy",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+  
+	{
+	"name": "districtstatic1",
+	"propertySetType": "${defaultPrefix}.propsetp1"
+
+	
+	},
+	{
+    "name": "districtstatic2",
+    "propertySetType": "${defaultPrefix}.propset2"
+  
+ 
+
+  },
+
+{
+"name": "districtstatic3",
+"propertySetType": "${defaultPrefix}.propset2"
+
+
+
+  },
+    {
+    "name": "districtstatic4",
+    "propertySetType": "${defaultPrefix}.propsetp1"
+  
+ 
+
+  }
+
+	
+],
+
+"extends": "${defaultPrefix}.City"
+
+}

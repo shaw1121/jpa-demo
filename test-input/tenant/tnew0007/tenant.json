@@ -1,0 +1,13 @@
+{
+  "externalId":"tenant_extId7",
+  "identityId":"tenantNew7",
+  "name": "tenant-New7",
+  "typePrefix":"tenNew7",
+	"configuration": {
+	   
+	    "aggregate": {
+	      "uncertainThreshold": 64,
+	      "goodThreshold": 192
+	    }  
+	}
+} 

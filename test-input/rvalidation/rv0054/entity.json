@@ -1,0 +1,6 @@
+{
+	"name": "Entity Instance Reserved 0054",
+	"type": "${defaultPrefix}.PublicBaseETRW0054",
+	"description": "Entity Instance Reserved 0054",
+	"t2Tenant" : "1245"
+}

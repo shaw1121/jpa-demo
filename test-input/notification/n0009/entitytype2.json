@@ -1,0 +1,28 @@
+{
+    "id": "${defaultPrefix}.City",
+    "name": "entitytypen0009b",
+    "scope": "private",
+    "description": "entitytype1",
+    "properties": [
+        {
+            "name": "Area2",
+            "type": "STRING",
+            "length": 100,
+            "searchable": "Y"
+        },
+        {
+            "name": "Population2",
+            "type": "STRING",
+            "length": 100,
+            "searchable": "Y"
+        }
+    ],
+    "propertySets": [
+        {
+            "name": "static11",
+            "propertySetType": "${defaultPrefix}.propsetn0009a"
+        }
+    ],
+    
+    "extends": "${defaultPrefix}.entitytypen0009a"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "propsetDynamic7",
+    "description": "propsetDynamic7 property set",
+    "category": "dynamic",
+    "scope": "private",
+    "properties": [
+       {
+      "name" : "T1DynamicProp13",
+      "type" : "LONG",
+      "searchable" : "Y",
+      "length" : 100,
+      "qualityCode" : "N"
+    	},
+    	{
+      "name" : "T1DynamicProp14",
+      "type" : "LONG",
+      "searchable" : "Y",
+      "length" : 100,
+      "qualityCode" : "Y"
+    	}
+    ]
+}

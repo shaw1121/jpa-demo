@@ -1,0 +1,14 @@
+{
+   "name": "SFO215",
+   "type": "${defaultPrefix}.City",
+   "description": "SFO215",
+   "Area": "9000 sq.ft",
+   "static1":   {
+    "Color": "Purple"
+    
+   }
+   
+   
+   
+   
+}

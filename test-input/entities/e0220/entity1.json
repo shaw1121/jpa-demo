@@ -1,0 +1,10 @@
+{
+   "name": "San Mateo Builing ET06",
+   "type": "${defaultPrefix}.BuildingET06",
+   "description": "ET06",
+   "publicDirect8": "true",
+   "publicDirect7": "1000",
+   "PublicDynamic7":   {
+    "T1DynamicProp6": "true"
+   }
+}

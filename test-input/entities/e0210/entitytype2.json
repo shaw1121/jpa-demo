@@ -1,0 +1,29 @@
+{
+
+"name": "EntityTypeE0210",
+"scope": "public",
+
+"description": "EntityTypeE0210",
+
+"properties": [
+  
+	{
+	"name": "Height",
+	"type": "String",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	  
+	{
+	"name": "Width",
+	"type": "int",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+]
+
+
+}

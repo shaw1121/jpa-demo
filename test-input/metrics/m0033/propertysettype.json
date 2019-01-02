@@ -1,0 +1,15 @@
+{
+    "name": "propsetMetric1",
+    "description": "propsetMetric1 property set",
+    "category": "static",
+    "scope": "private",
+    "properties": [
+        {
+            "name": "number",
+            "type": "INT",
+            "searchable": "Y",
+            "length": 100,
+            "qualityCode": "N"
+        }
+    ]
+}

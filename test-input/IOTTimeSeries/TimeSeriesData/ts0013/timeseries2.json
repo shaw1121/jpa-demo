@@ -1,0 +1,23 @@
+[
+  {
+    "_time": "2017-10-05T23:00:00.005Z",
+      "carmanual": "Test",
+      "sterio": "Sony",
+      "foglamps": false,
+      "date": "1988-09-24T00:00:00Z"
+  },
+  {
+    "_time": "2017-10-05T22:00:05Z",
+      "carmanual": "Test",
+      "sterio": "Sony",
+      "foglamps": false,
+      "date": "1988-09-24T00:00:00Z"
+  },
+  {
+    "_time": "2017-10-05T21:10:00Z",
+      "carmanual": "Test",
+      "sterio": "Sony",
+      "foglamps": false,
+      "date": "1988-09-24T00:00:00Z"
+  }
+]

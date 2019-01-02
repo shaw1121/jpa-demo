@@ -1,0 +1,11 @@
+{
+"name": "PublicBaseETRW0059",
+"scope": "public",
+"description": "Public Base Entitytype Reserved 0059",
+"propertySets": [
+  {
+   "name": "etag",
+   "propertySetType": "${defaultPrefix}.propsetReservedP0059"
+  }
+]
+}

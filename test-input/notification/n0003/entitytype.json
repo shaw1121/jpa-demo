@@ -1,0 +1,61 @@
+{
+
+"name": "entitytypen0003",
+"scope": "private",
+
+"description": "entitytypen0003",
+
+"properties": [
+  
+	{
+	"name": "Area",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	  
+	{
+	"name": "Population",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+  
+	{
+	"name": "static1",
+	"propertySetType": "${defaultPrefix}.propsetn0001"
+
+	
+	},
+	{
+    "name": "static2",
+    "propertySetType": "${defaultPrefix}.propsetn0001"
+  
+ 
+
+  },
+
+{
+"name": "static3",
+"propertySetType": "${defaultPrefix}.propsetn0001"
+
+
+
+  },
+    {
+    "name": "static4",
+    "propertySetType": "${defaultPrefix}.propsetn0001"
+  
+ 
+
+  }
+
+	
+]
+
+}

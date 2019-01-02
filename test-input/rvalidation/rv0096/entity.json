@@ -1,0 +1,8 @@
+{
+	"name": "Entity Instance Reserved 0096",
+	"type": "${defaultPrefix}.PublicBaseETRW0096",
+	"description": "Entity Instance Reserved 0096 using _subtenant",
+	"PublicStatic1": {
+		"_subtenant" : "Sub tenant"
+	}
+}

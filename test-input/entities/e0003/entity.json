@@ -1,0 +1,13 @@
+{
+   "name": "Milipitas",
+   "type": "${defaultPrefix}.City",
+   "description": "Milipitas",
+   "Area": "1500 sq.ft",
+   "static1":   {
+    "Color": "Green"
+    
+   }
+   
+   
+   
+}

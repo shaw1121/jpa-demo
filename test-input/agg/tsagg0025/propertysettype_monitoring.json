@@ -1,0 +1,26 @@
+{
+    "id": "Ten0001.vehicle_id0025",
+    "name": "vehicle_name0025",
+    "description": "sample property set",
+    "category": "dynamic",
+    "scope": "public",
+    "properties": [
+    {
+      "name": "speed",
+      "type": "double"
+    },
+    {
+      "name": "rpm",
+      "type": "double",
+      "qualityCode": "y"
+    },
+    {
+      "name": "engine_temperature",
+      "type": "double"
+    },
+    {
+      "name": "air_pressure",
+      "type": "double"
+    }
+  ]
+}

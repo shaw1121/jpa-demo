@@ -1,0 +1,10 @@
+{
+   "type": "${defaultPrefix}.PublicBaseTen1ET224",
+   "description": "Entity Instance EI224 using property",
+   "PublicDirect1ET224" : "63014",
+   "PublicDirect2ET224" : "4871",
+   "PublicStatic1": {
+   "T1Prop1" : "Direct PropertySet 1 ET224",
+   "T1Prop2" : "1450"
+   }
+}

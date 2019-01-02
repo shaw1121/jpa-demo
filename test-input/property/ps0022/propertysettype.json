@@ -1,0 +1,22 @@
+{
+    "name": "propset22",
+    "description": "Propset22 property set",
+    "category": "static",
+    "scope": "public",
+    "properties": [
+        {
+			"name" : "Color",
+			"type" : "STRING",
+			"searchable" : "Y",
+			"length" : 100,
+			"qualityCode" : "N"
+		},
+		{
+			"name" : "Width",
+			"type" : "DOUBLE",
+			"searchable" : "Y",
+			"length" : 250,
+			"qualityCode" : "Y"
+		}
+    ]
+}

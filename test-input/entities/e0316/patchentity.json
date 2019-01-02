@@ -1,0 +1,9 @@
+{
+   "name": "Entity NonExistent Instance EI316",
+   "type": "${defaultPrefix}.PublicNonExistentBaseTen1ET316",
+   "description": "Entity Instance EI316 using property",
+   "PublicStatic1": {
+   "T1Prop1" : "Direct PropertySet 1 ET316",
+   "T1Prop2" : "4852"
+   }
+}

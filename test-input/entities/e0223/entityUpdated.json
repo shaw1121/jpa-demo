@@ -1,0 +1,10 @@
+{
+   "name": "Entity Instance EI223",
+   "description": "Entity Instance EI223 using property",
+   "PublicDirect1ET223" : "9317",
+   "PublicDirect2ET223" : "24620",
+   "PublicStatic1": {
+   "T1Prop1" : "Direct PropertySet 1 ET223",
+   "T1Prop2" : "6490"
+   }
+}

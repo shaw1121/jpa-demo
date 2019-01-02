@@ -1,0 +1,30 @@
+{
+"name": "PublicSubET111",
+"scope": "public",
+"description": "Public Sub Entitytype 111",
+"extends": "${defaultPrefix}.PublicBaseET111",
+"properties": [
+	{
+	"name": "SubPublicDirect1",
+	"type": "string",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "SubPublicDirect2",
+	"type": "double",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PublicStatic3",
+	"propertySetType": "${defaultPrefix}.propsetStatic3"
+	},
+	{
+    "name": "PublicStatic4",
+    "propertySetType": "${defaultPrefix}.propsetStatic4"
+  	}
+]
+}

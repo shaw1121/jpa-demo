@@ -1,0 +1,23 @@
+{
+    "id": "${defaultPrefix}.propsetStatic232",
+    "name": "propsetStatic232",
+    "description": "propsetStatic232 property set",
+    "category": "static",
+    "scope": "public",
+    "properties": [
+       {
+      "name" : "T1Property4",
+      "type" : "String",
+      "searchable" : "Y",
+      "length" : "100",
+      "qualityCode" : "N"
+    	},
+    	{
+      "name" : "T1Property5",
+      "type" : "int",
+      "searchable" : "Y",
+      "length" : "100",
+      "qualityCode" : "Y"
+    	}
+    ]
+}

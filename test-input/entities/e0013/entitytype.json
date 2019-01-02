@@ -1,0 +1,39 @@
+{
+
+"name": "Energy",
+"scope": "public",
+
+"description": "Energy",
+
+"properties": [
+  
+	{
+	"name": "KWH",
+	"type": "String",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	  
+	{
+	"name": "PricingPlan",
+	"type": "int",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+
+"propertySets": [
+  
+	{
+	"name": "dynamic",
+	"propertySetType": "${defaultPrefix}.propsetDynamic1"
+
+	
+	}
+	]
+
+
+}

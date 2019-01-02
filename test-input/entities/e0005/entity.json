@@ -1,0 +1,18 @@
+{
+	"name": "Santa clarita",
+	"type": "${defaultPrefix}.District",
+	"description": "${defaultPrefix}.District",
+	"Population": "10000",
+	"Area": "500 sqft",
+	"Ethnicity": "Asian",
+	"Literacy": "100",
+	"static2": {
+		"number": "500"
+	},
+	"static4": {
+		"color": "Green"
+	},
+	"static3": {
+		"number": "100"
+	}
+}

@@ -1,0 +1,15 @@
+{
+    "name": "udapPropsetStatic0002",
+    "description": "udapPropsetStatic0002 property set",
+    "category": "static",
+    "scope": "public",
+    "properties": [
+       {
+      "name" : "T1DynamicProp1",
+      "type" : "TIMESTAMP",
+      "searchable" : "Y",
+      "length" : 100,
+      "qualityCode" : "N"
+    	}
+    ]
+}

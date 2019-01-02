@@ -1,0 +1,46 @@
+{
+
+"name": "SHCar",
+"scope": "private",
+
+"description": "entitytype1",
+
+"properties": [
+  
+	{
+	"name": "SHMake",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	  
+	{
+	"name": "SHModel",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+  
+	{
+	"name": "SHRFwheel",
+	"propertySetType": "${defaultPrefix}.SHwheel"
+
+	
+	},
+	{
+	"name": "SHLFwheel",
+	"propertySetType": "${defaultPrefix}.SHwheel"
+
+	
+	}
+	
+	
+	
+]
+
+}

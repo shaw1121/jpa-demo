@@ -1,0 +1,23 @@
+{
+    "id": "${defaultPrefix}.propsetStatic2321",
+    "name": "propsetStatic2321",
+    "description": "propsetStatic2321 property set",
+    "category": "static",
+    "scope": "public",
+    "properties": [
+       {
+      "name" : "T1Property6",
+      "type" : "timestamp",
+      "searchable" : "Y",
+      "length" : "100",
+      "qualityCode" : "N"
+    	},
+    	{
+      "name" : "T1Property7",
+      "type" : "double",
+      "searchable" : "Y",
+      "length" : "100",
+      "qualityCode" : "Y"
+    	}
+    ]
+}

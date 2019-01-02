@@ -1,0 +1,50 @@
+{
+  "name": "carpropset002",
+  "description": "Ten002_carpropset002_name",
+  "category": "dynamic",
+  "scope": "private",
+  "properties": [
+    {
+      "name": "length",
+      "type": "double",
+      "qualityCode": "Y"
+    },
+    {
+      "name": "width",
+      "type": "long",
+	  "qualityCode": "Y"
+    },
+    {
+      "name": "abs",
+      "type": "boolean",
+	  "qualityCode": "Y"
+    },
+    {
+      "name": "servicedate",
+      "type": "Timestamp",
+	  "qualityCode": "Y"
+    },
+    {
+      "name": "carhistory",
+      "type": "big_string",
+	  "length": "200",
+	  "qualityCode": "Y"
+    },
+    {
+      "name": "height",
+      "type": "int",
+	  "qualityCode": "Y"
+    },
+    {
+      "name": "fueltype",
+      "type": "string",
+	  "length": "200",
+	  "qualityCode": "Y"
+    },
+    {
+      "name": "displacement",
+      "type": "int",
+	  "qualityCode": "N"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+	"name": "Entity Instance Reserved 0010",
+	"type": "${defaultPrefix}.PublicBaseETRW0010",
+	"description": "Entity Instance Reserved 0010 using INSERT",
+	"INSERT": "new query"
+}

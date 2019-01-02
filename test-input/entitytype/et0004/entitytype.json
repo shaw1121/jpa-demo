@@ -1,0 +1,38 @@
+{
+"name": "MachineET04",
+"scope": "public",
+"description": "Public Base Entitytype 04",
+"properties": [
+	{
+	"name": "PublicDirect3",
+	"type": "string",
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	{
+	"name": "PublicDirect4",
+	"type": "long",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PublicStatic3",
+	"propertySetType": "${defaultPrefix}.propsetStatic1"
+	},
+	{
+    "name": "PublicStatic4",
+    "propertySetType": "${defaultPrefix}.propsetStatic2"
+  },
+{
+"name": "PublicDynamic3",
+"propertySetType": "${defaultPrefix}.propsetDynamic1"
+  },
+    {
+    "name": "PublicDynamic4",
+    "propertySetType": "${defaultPrefix}.propsetDynamic2"
+  }	
+]
+}

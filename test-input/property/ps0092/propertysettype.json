@@ -1,0 +1,15 @@
+{
+    "name": "propset92",
+    "description": "property set 92",
+    "category": "static",
+    "scope": "public",
+    "properties": [
+        {
+            "name": "propsetTestProp1",
+            "type": "INT",
+            "searchable": "Y",
+            "length": 100,
+            "qualityCode": "N"
+        }
+    ]
+}

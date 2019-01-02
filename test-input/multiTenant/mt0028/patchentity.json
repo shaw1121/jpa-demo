@@ -1,0 +1,6 @@
+{
+"name": "Entity Instance MT0028",
+"type": "${defaultPrefix}.PublicTen1EntMT0028",
+"description": "Entity Instance MT0028 using parent tenant credentials",
+"_subtenant" : "Sub1"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "propsetStaticE0005",
+    "description": "propsetStaticE0005 property set",
+    "category": "static",
+    "scope": "public",
+    "properties": [
+       {
+      "name" : "T2StaticProp1",
+      "type" : "STRING",
+      "searchable" : "Y",
+      "length" : "100",
+      "qualityCode" : "Y"
+    	},
+    	{
+      "name" : "T2StaticProp2",
+      "type" : "LONG",
+      "searchable" : "Y",
+      "length" : "100",
+      "qualityCode" : "Y"
+    	}
+    ]
+}

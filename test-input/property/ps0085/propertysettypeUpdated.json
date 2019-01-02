@@ -1,0 +1,15 @@
+{
+    "name": "propsetp85",
+    "description": "sample property set update",
+    "category": "static",
+    "scope": "public",
+    "properties": [
+        {
+            "name": "dependencyCheck",
+            "type": "BOOLEAN",
+            "searchable": "Y",
+            "length": 100,
+            "qualityCode": "N"
+        }
+    ]
+}

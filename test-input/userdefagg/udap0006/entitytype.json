@@ -1,0 +1,31 @@
+{
+"name": "UdapEntitytypeDynamic0006",
+"scope": "public",
+"description": "Public Entitytype User Defined Aggregation Period",
+"properties": [
+	{
+	"name": "PublicDirect1",
+	"type": "string",
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	{
+	"name": "PublicDirect2",
+	"type": "double",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PublicDynamic1",
+	"propertySetType": "${defaultPrefix}.udapPropsetDynamic0006",
+	"aggregationIntervals": 
+  		{	
+			"seconds": 30, 
+            "hours": 1
+  		}
+	}
+]
+}

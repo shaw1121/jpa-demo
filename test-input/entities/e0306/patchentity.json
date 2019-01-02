@@ -1,0 +1,13 @@
+{
+   "name": "Entity Instance EI306",
+   "type": "${defaultPrefix}.PublicSubTen1ET306",
+   "description": "Entity Instance EI306 using propertyset",
+   "PrivateStatic5" : {
+   "T1Prop9" : "300",
+   "T1Prop10" : "2499"
+   },
+   "PrivateStatic6" : {
+   "T1Prop11" : "200",
+   "T1Prop12" : "1499.12"
+   }
+}

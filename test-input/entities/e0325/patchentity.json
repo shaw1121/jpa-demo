@@ -1,0 +1,9 @@
+{
+   "name": "Entity Instance EI325",
+   "type": "${defaultPrefix}.PublicBaseTen1ET325",
+   "description": "Patching to non existent entity instance",
+   "PublicStatic1": {
+   "T1Prop1" : "Direct PropertySet 1 ET325",
+   "T1Prop2" : "98712"
+   }
+}

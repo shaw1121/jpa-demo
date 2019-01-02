@@ -1,0 +1,29 @@
+{
+    "name": "Bank",
+    "scope": "public",
+    "description": "Bank",
+    "properties": [
+        {
+            "name": "Transaction",
+            "type": "STRING",
+            "length": 100,
+            "searchable": "Y"
+        },
+        {
+            "name": "employees",
+            "type": "INT",
+            "length": 100,
+            "searchable": "Y"
+        }
+    ],
+    "propertySets": [
+        {
+            "name": "static",
+            "propertySetType": "${defaultPrefix}.propsetStatic1"
+        },
+        {
+            "name": "dynamic",
+            "propertySetType": "${defaultPrefix}.propsetDynamic1"
+        }
+    ]
+}

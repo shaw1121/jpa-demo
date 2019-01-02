@@ -1,0 +1,7 @@
+{
+	"name": "Entity Instance Reserved 0025",
+	"type": "${defaultPrefix}.PublicSubETRW0025",
+	"description": "Entity Instance Reserved 0025",
+	"DirectSubProp1": "Y",
+	"Timezone" : "new timezone"
+}
