@@ -1,0 +1,42 @@
+{
+"name": "PublicSubTen1ET312",
+"scope": "public",
+"description": "Public Sub Entitytype 312",
+"extends" : "${defaultPrefix}.PublicBaseTen1ET312",
+"properties": [
+	{
+	"name": "PublicSubDirect1ET312",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "PublicSubDirect2ET312",
+	"type": "LONG",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "PublicSubDirect3ET312",
+	"type": "INT",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "PublicSubDirect4ET312",
+	"type": "DOUBLE",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PublicStatic3",
+	"propertySetType": "${defaultPrefix}.propsetStatic3"
+	},
+	{
+	"name": "PublicDynamic3",
+	"propertySetType": "${defaultPrefix}.propsetDynamic3"
+  	}	
+]
+}

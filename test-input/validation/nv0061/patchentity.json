@@ -1,0 +1,10 @@
+{
+"name": "Entity Instance EI00611",
+"type": "${defaultPrefix}.PublicTen1EntNV00611",
+"description": "Entity Instance EI00611 using propertyset",
+"PublicDirect21": "250",
+"timezone" : "Asia/Kolkata",
+"PublicDynamic1":{
+    "T1DynamicProp1": "PropertySet property dynamic 1"
+   }
+}

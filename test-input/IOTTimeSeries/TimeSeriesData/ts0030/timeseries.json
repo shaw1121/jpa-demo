@@ -1,0 +1,46 @@
+[
+  {
+    "_time": "2017-01-27T12:00:00.002Z",
+		"enginetemperature": 100,
+		"enginetemperature_qc": 30,
+		"foglamps": true,
+		"foglamps_qc": 10,
+		"rpm": 5000.5,
+		"rpm_qc": 50,
+        "speed": 10,
+        "speed_qc": 60
+  },
+  {
+    "_time": "2017-01-27T12:00:00.003Z",
+		"enginetemperature": 100,
+		"enginetemperature_qc": 30,
+		"foglamps": true,
+		"foglamps_qc": 10,
+		"rpm": 5000.5,
+		"rpm_qc": 50,
+        "speed": 10,
+        "speed_qc": 60
+  },
+  {
+    "_time": "2017-01-27T12:00:00.004Z",
+		"enginetemperature": 100,
+		"enginetemperature_qc": 30,
+		"foglamps": true,
+		"foglamps_qc": 10,
+		"rpm": 5000.5,
+		"rpm_qc": 50,
+        "speed": 10,
+        "speed_qc": 60
+  },
+  {
+    "_time": "2017-01-27T12:00:00.005Z",
+		"enginetemperature": 100,
+		"enginetemperature_qc": 30,
+		"foglamps": true,
+		"foglamps_qc": 10,
+		"rpm": 5000.5,
+		"rpm_qc": 50,
+        "speed": 10,
+        "speed_qc": 60
+  }
+]

@@ -1,0 +1,11 @@
+{
+   "name": "Entity Instance EI301",
+   "type": "${defaultPrefix}.PublicBaseTen1ET301",
+   "description": "Entity Instance EI301 using partial direct property",
+   "PublicDirect1" : "100",
+   "PublicDirect2" : "2048",
+   "PublicStatic1": {
+   "T1Prop1" : "PropertySet 1",
+   "T1Prop2" : "100"
+   }
+}

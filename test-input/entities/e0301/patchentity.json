@@ -1,0 +1,7 @@
+{
+   "name": "Entity Instance EI301",
+   "type": "${defaultPrefix}.PublicBaseTen1ET301",
+   "description": "Entity Instance EI301 using partial direct property",
+   "PublicDirect3" : "Partial Direct Property Patch",
+   "PublicDirect4" : "2015-04-15T02:35:00+02:45"
+}

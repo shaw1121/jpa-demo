@@ -1,0 +1,29 @@
+{
+
+"name": "entitytype0404",
+"scope": "private",
+
+"description": "entitytype0404",
+
+"properties": [
+  
+	{
+	"name": "Color",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	  
+	{
+	"name": "Model",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+]
+
+
+}

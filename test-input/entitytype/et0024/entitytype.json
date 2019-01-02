@@ -1,0 +1,13 @@
+{
+"name": "PublicParentBaseET24",
+"scope": "public",
+"description": "Public Parent Base Entitytype 24",
+"properties": [
+	{
+	"name": "PublicSingleDirect1",
+	"type": "string",
+	"length": "100",
+	"searchable": "Y"
+	}
+]
+}

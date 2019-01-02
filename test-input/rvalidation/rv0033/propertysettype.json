@@ -1,0 +1,16 @@
+{
+    "name": "propsetReservedP0033",
+    "description": "sample property set",
+    "category": "static",
+    "scope": "public",
+    "properties": [
+        {
+            "name": "timezone",
+            "type": "STRING",
+            "searchable": "Y",
+            "length": 100,
+            "qualityCode": "N"
+        }
+        
+    ]
+}

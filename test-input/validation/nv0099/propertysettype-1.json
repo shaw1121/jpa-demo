@@ -1,0 +1,22 @@
+{
+    "name": "propsetStaticNV00991",
+    "description": "propsetStaticNV00991 property set",
+    "category": "static",
+    "scope": "public",
+    "properties": [
+       {
+      "name" : "T1StaticProp1NV00991",
+      "type" : "STRING",
+      "searchable" : "Y",
+      "length" : "100",
+      "qualityCode" : "Y"
+    	},
+    	{
+      "name" : "T1StaticProp2NV00991",
+      "type" : "DOUBLE",
+      "searchable" : "Y",
+      "length" : "100",
+      "qualityCode" : "Y"
+    	}
+    ]
+}

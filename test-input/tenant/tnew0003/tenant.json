@@ -1,0 +1,12 @@
+{
+  "externalId":"tenant_extId3",
+  "identityId":"tenantNew3",
+  "name": "tenant-New3",
+  "typePrefix":"tenNew3",
+	"configuration": {
+	    "entity": {
+	      "defaultTimezone": "Europe/Vienna"
+	    }
+	    
+	}
+} 

@@ -1,0 +1,13 @@
+{
+"name": "PublicBaseETRW0011",
+"scope": "public",
+"description": "Public Base Entitytype Reserved 0011",
+"properties": [
+	{
+	"name": "markForDeleteTime",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	}
+]
+}

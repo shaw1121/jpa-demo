@@ -1,0 +1,14 @@
+{
+"name": "PublicSubETRW0036",
+"scope": "public",
+"description": "Public Sub Entitytype Reserved 0036",
+"extends" : "${defaultPrefix}.PublicBaseETRW0036",
+"properties": [
+	{
+	"name": "subtenant",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	}
+]
+}

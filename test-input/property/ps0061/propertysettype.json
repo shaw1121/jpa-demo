@@ -1,0 +1,22 @@
+{
+    "name": "propsetDynamic5",
+    "description": "propsetDynamic5 property set",
+    "category": "dynamic",
+    "scope": "private",
+    "properties": [
+       {
+      "name" : "T2DynamicProp9",
+      "type" : "TIMESTAMP",
+      "searchable" : "Y",
+      "length" : 100,
+      "qualityCode" : "N"
+    	},
+    	{
+      "name" : "T2DynamicProp10",
+      "type" : "TIMESTAMP",
+      "searchable" : "Y",
+      "length" : 100,
+      "qualityCode" : "Y"
+    	}
+    ]
+}

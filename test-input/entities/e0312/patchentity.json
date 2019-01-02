@@ -1,0 +1,8 @@
+{
+   "name": "Entity Instance EI312",
+   "type": "${defaultPrefix}.PublicSubTen1ET312",
+   "description": "Entity Instance EI312 using direct property",
+   "PublicSubDirect2ET312" : "",
+   "PublicSubDirect3ET312" : "369",
+   "PublicSubDirect4ET312" : "1594.687"
+}

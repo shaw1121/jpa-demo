@@ -1,0 +1,16 @@
+{
+    "name": "propsetReservedP0001",
+    "description": "sample property set",
+    "category": "dynamic",
+    "scope": "public",
+    "properties": [
+        {
+            "name": "_time",
+            "type": "TIMESTAMP",
+            "searchable": "Y",
+            "length": 100,
+            "qualityCode": "N"
+        }
+        
+    ]
+}

@@ -1,0 +1,12 @@
+{
+   "name": "Entity Instance EI312",
+   "type": "${defaultPrefix}.PublicSubTen1ET312",
+   "description": "Entity Instance EI312 using direct property",
+   "PublicDirect1ET312" : "1789.234",
+   "PublicSubDirect1ET312" : "Sub Direct Property ET312",
+   "PublicSubDirect2ET312" : "1478",
+   "PublicStatic1" : {
+   "T1Prop1" : "Base Propset Property 1 ET312",
+   "T1Prop2" : "1423"
+   }
+}

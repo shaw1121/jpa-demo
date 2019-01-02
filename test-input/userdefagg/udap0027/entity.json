@@ -1,0 +1,7 @@
+{
+   "name": "Entity Instance UDAP27",
+   "type": "${defaultPrefix}.UdapEntitytypeDynamic00271",
+   "description": "User Defined Aggregation Period",
+   "PublicSubDirect1": "Hello",
+   "timezone": "GMT+05:00"
+}

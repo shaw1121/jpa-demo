@@ -1,0 +1,13 @@
+{
+"name": "PublicBaseETRW0002",
+"scope": "public",
+"description": "Public Base Entitytype Reserved 0002",
+"properties": [
+	{
+	"name": "id",
+	"type": "string",
+	"length": 100,
+	"searchable": "Y"
+	}
+]
+}

@@ -1,0 +1,15 @@
+{
+   "name": "Entity Instance EI310",
+   "type": "${defaultPrefix}.PublicSubTen1ET310",
+   "description": "Entity Instance EI310 using propertyset",
+   "PublicDirect1ET310" : "Direct Property ET310",
+   "PublicDirect2ET310" : "650",
+   "PublicStatic1" : {
+   "T1Prop1" : "Base Propset Property 1 ET310",
+   "T1Prop2" : "450"
+   },
+   "PublicStatic3" : {
+   "T1Prop5" : "Base Propset Property 5 ET310",
+   "T1Prop6" : "1499.58"
+   }
+}

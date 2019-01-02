@@ -1,0 +1,54 @@
+{
+   "name": "MERC C Series",
+   "type": "${defaultPrefix}.aseamers002",
+   "description": "MERC C Series",
+   "ASMake": "MERC C 3",
+   "ASModel": "C series",
+   "ASEnginePower": "100 RPM",
+   "ASVin": "123224567B",
+   "ASDoor": 2,
+   "ASYear": "2016-05-01T16:00:00+05:00",
+   "ASElectric": false,
+   "timezone": "America/New_York",
+   "_Subtenant": "sub1",
+   
+   "ASRFwheel":   {
+    "ASWeight": 1000,
+    "ASHeight": 1200,
+    "ASWidth": 120
+    
+   },
+   "ASRRwheel":   {
+    "ASWeight": 1120,
+    "ASHeight": 2100,
+    "ASWidth": 110
+    
+   },
+   "ASLFwheel":   {
+    "ASWeight": 1120,
+    "ASHeight": 2100,
+    "ASWidth": 110
+    
+   },
+   "ASLRwheel":   {
+    "ASWeight": 1120,
+    "ASHeight": 2100,
+    "ASWidth": 110
+    
+   },
+   "ASFseat": {
+   "ASLeather":false,
+   "ASMASsage":false,
+   "ASColor": "Green",
+   "ASHeight": "200"
+   },
+   "ASRseat": {
+   "ASLeather":true,
+   "ASMASsage":true,
+   "ASColor": "Blue",
+   "ASHeight": "100"
+   }
+   
+   
+   
+}

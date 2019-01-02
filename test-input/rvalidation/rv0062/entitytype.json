@@ -1,0 +1,11 @@
+{
+"name": "PublicBaseETRW0062",
+"scope": "public",
+"description": "Public Base Entitytype Reserved 0062",
+"propertySets": [
+  {
+   "name": "timezone",
+   "propertySetType": "${defaultPrefix}.propsetReservedP0062"
+  }
+]
+}

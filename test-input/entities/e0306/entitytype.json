@@ -1,0 +1,33 @@
+{
+"name": "PublicBaseTen1ET306",
+"scope": "public",
+"description": "Public Base Entitytype 306",
+"properties": [
+	{
+	"name": "PublicDirect1ET306",
+	"type": "DOUBLE",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "PublicDirect2ET306",
+	"type": "INT",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PrivateStatic5",
+	"propertySetType": "${defaultPrefix}.propsetStatic5"
+	},
+	{
+	"name": "PrivateStatic6",
+	"propertySetType": "${defaultPrefix}.propsetStatic6"
+	},
+	{
+	"name": "PublicDynamic1",
+	"propertySetType": "${defaultPrefix}.propsetDynamic1"
+  	}	
+]
+}

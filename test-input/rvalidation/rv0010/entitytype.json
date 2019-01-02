@@ -1,0 +1,13 @@
+{
+"name": "PublicBaseETRW0010",
+"scope": "public",
+"description": "Public Base Entitytype Reserved 0010",
+"properties": [
+	{
+	"name": "INSERT",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	}
+]
+}

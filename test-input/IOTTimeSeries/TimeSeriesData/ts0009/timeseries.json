@@ -1,0 +1,32 @@
+[
+  {
+    "_time": "2030-10-09T23:00:00.002Z",
+      "carmanual": "Test",
+      "enginetemperature": 80,
+      "rpm":5000.5,
+      "speed":60,
+      "sterio": "Sony",
+      "foglamps": false,
+      "date": "1988-09-24T00:00:00Z"
+  },
+  {
+    "_time": "2030-10-09T23:00:00.003Z",
+      "carmanual": "Test",
+      "enginetemperature": 80,
+      "rpm":5000.5,
+      "speed":60,
+      "sterio": "Sony",
+      "foglamps": false,
+      "date": "1988-09-24T00:00:00Z"
+  },
+  {
+    "_time": "2030-10-09T23:00:00.004Z",
+      "carmanual": "Test",
+      "enginetemperature": 80,
+      "rpm":5000.5,
+      "speed":60,
+      "sterio": "Sony",
+      "foglamps": false,
+      "date": "1988-09-24T00:00:00Z"
+  }
+]

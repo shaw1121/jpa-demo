@@ -1,0 +1,1 @@
+Verify get aggregation should not get blob data for on-the-fly aggregation.

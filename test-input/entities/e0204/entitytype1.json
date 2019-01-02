@@ -1,0 +1,30 @@
+{
+
+"name": "ParkingStructures1",
+"scope": "public",
+
+"description": "ParkingStructures1",
+
+"properties": [
+  
+	{
+	"name": "Area",
+	"type": "String",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	  
+	{
+	"name": "Floors",
+	"type": "int",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+	
+]
+
+
+}

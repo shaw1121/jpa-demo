@@ -1,0 +1,11 @@
+{
+"name": "Entity NV 0052",
+"type": "${secondTenPrefix}.EntityTypeNV0052",
+"description": "Entity Instance NV One",
+"PublicDirect1": "Direct Property 1",
+"timezone": "America/New_York",
+"PublicStatic1":{
+    "T1Prop1": "Mindsphere",
+    "T1Prop2": "150"
+   }
+}

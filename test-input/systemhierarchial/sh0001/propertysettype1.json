@@ -1,0 +1,41 @@
+{
+    "name": "shseats",
+    "description": "sample property set",
+    "category": "static",
+    "scope": "private",
+    "properties": [
+        {
+            "name": "shLeather",
+            "type": "boolean",
+            "searchable": "Y",
+            "length": 100,
+            
+            "qualityCode": "N"
+        },
+       
+        {
+            "name": "shMshsage",
+            "type": "boolean",
+            "searchable": "Y",
+            "length": 100,
+            
+            "qualityCode": "N"
+        },
+        {
+            "name": "shColor",
+            "type": "String",
+            "searchable": "Y",
+            "length": 100,
+            
+            "qualityCode": "N"
+        },
+        {
+            "name": "shHeight",
+            "type": "String",
+            "searchable": "Y",
+            "length": 100,
+            
+            "qualityCode": "N"
+        }
+    ]
+}

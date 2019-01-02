@@ -1,0 +1,16 @@
+{
+    "name": "propset26",
+    "description": "sample property set",
+    "category": "static",
+    "scope": "public",
+    "properties": [
+        {
+            "name": "Thisisapropsetwithpropertynameexceeding64characterswhichwillgetfailed",
+            "type": "STRING",
+            "searchable": "Y",
+            "length": 100,
+            
+            "qualityCode": "N"
+        }
+    ]
+}

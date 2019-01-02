@@ -1,0 +1,39 @@
+{
+"name": "AnimalET05",
+"scope": "public",
+"description": "Public Sub Entitytype 05",
+"extends": "${defaultPrefix}.PlacesET03",
+"properties": [
+	{
+	"name": "PublicDirect5",
+	"type": "string",
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	{
+	"name": "PublicDirect6",
+	"type": "double",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PublicStatic5",
+	"propertySetType": "${defaultPrefix}.propsetStatic3"
+	},
+	{
+    "name": "PublicStatic6",
+    "propertySetType": "${defaultPrefix}.propsetStatic7"
+  },
+{
+"name": "PublicDynamic5",
+"propertySetType": "${defaultPrefix}.propsetDynamic3"
+  },
+    {
+    "name": "PublicDynamic6",
+    "propertySetType": "${defaultPrefix}.propsetDynamic7"
+  }	
+]
+}

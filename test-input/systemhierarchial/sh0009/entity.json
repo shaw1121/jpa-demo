@@ -1,0 +1,11 @@
+{
+"name": "Entity SH0009",
+"type": "${defaultPrefix}.EntityTypeSh0009",
+"description": "Entity Instance SH0009",
+"PublicDirect1": "Direct Property 1",
+"timezone": "America/New_York",
+"PublicStatic1":{
+    "T1Prop1": "PropertySet Property 1",
+    "T1Prop2": "250"
+   }
+}

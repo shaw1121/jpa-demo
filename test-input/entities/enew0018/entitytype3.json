@@ -1,0 +1,28 @@
+{
+"name": "PublicTen1subsubEnt_0018",
+"scope": "public",
+"description": "� Public subsub Entitytype 0018",
+"properties": [
+	{
+	"name": "Public_Direct18",
+	"type": "STRING",
+	"length": "255",
+	"searchable": "Y"
+	}
+	,
+	{
+	"name": "Public_IntDirect18",
+	"type": "INT",
+	"length": "255",
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PublicsubStatic_18",
+	"propertySetType": "${defaultPrefix}.propsetStatic_E0018"
+	}	
+],
+"extends": "${defaultPrefix}.PublicTen1subEnt_0018"
+
+}

@@ -1,0 +1,24 @@
+{
+"name": "PublicSubTen1ET113",
+"scope": "public",
+"description": "Public Sub Entitytype 113",
+"extends" : "${defaultPrefix}.PublicBaseTen1Ent113",
+"propertySets": [
+	{
+	"name": "PublicStatic3",
+	"propertySetType": "${defaultPrefix}.propsetStatic2"
+	},
+	{
+    "name": "PublicStatic4",
+    "propertySetType": "${defaultPrefix}.propsetStatic6"
+  	},
+	{
+	"name": "PublicDynamic3",
+	"propertySetType": "${defaultPrefix}.propsetDynamic2"
+  	},
+    {
+    "name": "PublicDynamic4",
+    "propertySetType": "${defaultPrefix}.propsetDynamic6"
+  	}	
+]
+}

@@ -1,0 +1,41 @@
+{
+"name": "PublicBaseTen1ET316",
+"scope": "public",
+"description": "Public Base Entitytype 316",
+"properties": [
+	{
+	"name": "PublicDirect1ET316",
+	"type": "int",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "PublicDirect2ET316",
+	"type": "long",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "PublicDirect3ET316",
+	"type": "String",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "PublicDirect4ET316",
+	"type": "timestamp",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PublicStatic1",
+	"propertySetType": "${defaultPrefix}.propsetStatic1"
+	},
+	{
+	"name": "PublicDynamic1",
+	"propertySetType": "${defaultPrefix}.propsetDynamic1"
+  	}	
+]
+}

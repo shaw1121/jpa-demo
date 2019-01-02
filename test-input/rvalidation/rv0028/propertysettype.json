@@ -1,0 +1,16 @@
+{
+    "name": "propsetReservedP0028",
+    "description": "sample property set",
+    "category": "static",
+    "scope": "public",
+    "properties": [
+        {
+            "name": "id",
+            "type": "STRING",
+            "searchable": "Y",
+            "length": 100,
+            "qualityCode": "N"
+        }
+        
+    ]
+}

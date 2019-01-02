@@ -1,0 +1,34 @@
+{
+"name": "PublicBaseET105",
+"scope": "public",
+"description": "Public Base Entitytype 105",
+"properties": [
+	{
+	"name": "PublicDirect1",
+	"type": "string",
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	{
+	"name": "PublicDirect2",
+	"type": "long",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PublicStatic1",
+	"propertySetType": "${defaultPrefix}.propsetStatic1"
+	},
+	{
+    "name": "PublicStatic2",
+    "propertySetType": "${defaultPrefix}.propsetStatic2"
+  	},
+	{
+	"name": "ChangedPublicStatic3",
+	"propertySetType": "${defaultPrefix}.propsetStatic3"
+  	}
+]
+}

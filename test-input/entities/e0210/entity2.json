@@ -1,0 +1,7 @@
+{
+	"name": "SFO210-2",
+	"type": "${defaultPrefix}.EntityTypeE0210",
+	"description": "SFO210 Entity 2",
+	"Height": "14000 sq.ft",
+	"Width": 145
+}

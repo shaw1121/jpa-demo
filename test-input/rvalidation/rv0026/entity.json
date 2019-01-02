@@ -1,0 +1,9 @@
+{
+	"name": "Entity Instance Reserved 0026",
+	"type": "${defaultPrefix}.PublicSubETRW0026",
+	"description": "Entity Instance Reserved 0026",
+	"Parent": "Y",
+	"Timezone" : "new timezone",
+	"Tenant" : "123",
+	"type" : "Reserved"
+}

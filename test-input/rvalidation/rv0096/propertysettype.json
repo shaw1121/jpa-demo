@@ -1,0 +1,16 @@
+{
+    "name": "propsetReservedP0096",
+    "description": "sample property set",
+    "category": "static",
+    "scope": "public",
+    "properties": [
+        {
+            "name": "_subtenant",
+            "type": "STRING",
+            "searchable": "Y",
+            "length": 100,
+            "qualityCode": "N"
+        }
+        
+    ]
+}

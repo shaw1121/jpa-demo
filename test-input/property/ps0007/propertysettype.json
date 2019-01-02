@@ -1,0 +1,16 @@
+{
+    "name": "propset7",
+    "description": "sample property set",
+    "category": "static",
+    "scope": "private",
+    "properties": [
+        {
+            "name": "Color1",
+            
+            "searchable": "Y",
+            "length": 100,
+            
+            "qualityCode": "N"
+        }
+    ]
+}

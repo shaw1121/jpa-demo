@@ -1,0 +1,7 @@
+{
+"name": "Entity Instance EI0161",
+"type": "${defaultPrefix}.PublicTen1EntNV0161",
+"description": "Entity Instance EI0161 using ULONG",
+"PublicDirect1": 10524,
+"timezone" : "Asia/Kolkata"
+}

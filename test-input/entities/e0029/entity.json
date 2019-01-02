@@ -1,0 +1,14 @@
+{
+   "name": "SFO29",
+   "type": "${defaultPrefix}.City",
+   "description": "SFO29",
+   "Area": "1000 sq.ft",
+   "timezone": "America/Los_Angeles",
+   "static1":   {
+    "Color": "Blue"
+    
+   }
+   
+   
+   
+}

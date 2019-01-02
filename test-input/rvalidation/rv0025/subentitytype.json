@@ -1,0 +1,20 @@
+{
+"name": "PublicSubETRW0025",
+"scope": "public",
+"description": "Public Sub Entitytype Reserved 0025",
+"extends" : "${defaultPrefix}.PublicBaseETRW0025",
+"properties": [
+	{
+	"name": "Timezone",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "DirectSubProp1",
+	"type": "BOOLEAN",
+	"length": 100,
+	"searchable": "Y"
+	}
+]
+}

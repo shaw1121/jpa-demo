@@ -1,0 +1,16 @@
+{
+    "name": "propsetp14",
+    "description": "sample property set",
+    "category": "static",
+    "scope": "private",
+    "properties": [
+        {
+            "name": "short",
+            "type": "short",
+            "searchable": "Y",
+            "length": 100,
+            
+            "qualityCode": "N"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "propsetStaticNV0165",
+    "description": "propsetStaticNV0165 property set",
+    "category": "static",
+    "scope": "public",
+    "properties": [
+        {
+            "name": "Color",
+            "type": "ULONG",
+            "searchable": "Y",
+            "qualityCode": "N"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "shwheel",
+    "description": "sample property set",
+    "category": "static",
+    "scope": "private",
+    "properties": [
+        {
+            "name": "shWeight",
+            "type": "long",
+            "searchable": "Y",
+            "length": 100,
+            
+            "qualityCode": "N"
+        },
+       
+        {
+            "name": "shHeight",
+            "type": "long",
+            "searchable": "Y",
+            "length": 100,
+            
+            "qualityCode": "N"
+        },
+        {
+            "name": "shWidth",
+            "type": "long",
+            "searchable": "Y",
+            "length": 100,
+            
+            "qualityCode": "N"
+        }
+    ]
+}

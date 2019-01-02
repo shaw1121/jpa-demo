@@ -1,0 +1,11 @@
+{
+   "name": "Entity Instance EI315",
+   "type": "${defaultPrefix}.PublicBaseTen1ET315",
+   "description": "Entity Instance EI315 using no property",
+   "PublicDirect1" : "180",
+   "PublicDirect2" : "2678",
+   "PublicStatic1": {
+   "T1Prop1" : "${defaultPrefix} PropertySet 1 ET315",
+   "T1Prop2" : "742"
+   }
+}

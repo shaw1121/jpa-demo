@@ -1,0 +1,54 @@
+{
+   "name": "Mercedes Z Series 5",
+   "type": "${defaultPrefix}.ASMERC5",
+   "description": "MERC Z Series",
+   "ASMake": "MERC Z 3",
+   "ASModel": "Z series",
+   "ASEnginePower": "200 RPM",
+   "ASVin": "1234567A",
+   "ASDoor": 4,
+   "ASYear": "2016-01-01T16:00:00+05:00",
+   "ASElectric": "true",
+   "timezone": "America/New_York",
+   
+   
+   "ASRFwheel":   {
+    "ASWeight": 120,
+    "ASHeight": 200,
+    "ASWidth": 10
+    
+   },
+   "ASRRwheel":   {
+    "ASWeight": 120,
+    "ASHeight": 200,
+    "ASWidth": 10
+    
+   },
+   "ASLFwheel":   {
+    "ASWeight": 120,
+    "ASHeight": 200,
+    "ASWidth": 10
+    
+   },
+   "ASLRwheel":   {
+    "ASWeight": 120,
+    "ASHeight": 200,
+    "ASWidth": 10
+    
+   },
+   "ASFseat": {
+   "ASLeather":"true",
+   "ASMASsage":"true",
+   "ASColor": "Blue",
+   "ASHeight": "100"
+   },
+   "ASRseat": {
+   "ASLeather":"false",
+   "ASMASsage":"false",
+   "ASColor": "Blue",
+   "ASHeight": "100"
+   }
+   
+   
+   
+}

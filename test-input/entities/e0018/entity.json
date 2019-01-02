@@ -1,0 +1,11 @@
+{
+	"name": "ATM Sunnyvale",
+	"type": "${defaultPrefix}.ATM_1",
+	"description": "ATM Sunnyvale",
+	"Limit": "1000",
+	"Hours": "9",
+	"staticatm": {
+		"T1Prop3": "Blue",
+		"T1Prop4": "100"
+	}
+}

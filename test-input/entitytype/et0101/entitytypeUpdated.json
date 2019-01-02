@@ -1,0 +1,20 @@
+{
+"name": "PublicBaseET101",
+"scope": "public",
+"description": "Public Base Entitytype 101",
+"properties": [
+	{
+	"name": "Ten1Direct101",
+	"type": "long",
+	"length": "100",
+	"searchable": "Y"
+	}
+	,
+	{
+	"name": "Ten1Direct102",
+	"type": "string",
+	"length": "100",
+	"searchable": "N"
+	}
+]
+}

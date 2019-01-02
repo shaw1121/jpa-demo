@@ -1,0 +1,29 @@
+{
+    "name": "propset20",
+    "description": "Propset20 property set",
+    "category": "static",
+    "scope": "public",
+    "properties": [
+        {
+			"name" : "Color",
+			"type" : "STRING",
+			"searchable" : "Y",
+			"length" : 100,
+			"qualityCode" : "N"
+		},
+		{
+			"name" : "Owner",
+			"type" : "STRING",
+			"searchable" : "Y",
+			"length" : 100,
+			"qualityCode" : "Y"
+		},
+		{
+			"name" : "Width",
+			"type" : "DOUBLE",
+			"searchable" : "Y",
+			"length" : 250,
+			"qualityCode" : "Y"
+		}
+    ]
+}

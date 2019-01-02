@@ -1,0 +1,29 @@
+{
+"name": "PublicBaseET107",
+"scope": "public",
+"description": "Public Base Entitytype 107",
+"properties": [
+	{
+	"name": "PublicDirect1",
+	"type": "string",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "PublicDirect2",
+	"type": "long",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PublicStatic1",
+	"propertySetType": "${defaultPrefix}.propsetStatic1"
+	},
+	{
+    "name": "PublicStatic2",
+    "propertySetType": "${defaultPrefix}.propsetStatic2"
+  	}
+]
+}

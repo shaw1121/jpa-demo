@@ -1,0 +1,13 @@
+{
+   "name": "mumbai",
+   "type": "${defaultPrefix}.City",
+   "description": "mumbai city",
+   "Area": "154021 sq.ft",
+   "static1":   {
+    "Color": "Blue"
+    
+   }
+   
+   
+   
+}

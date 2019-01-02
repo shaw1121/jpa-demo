@@ -1,0 +1,6 @@
+{
+	"name": "Entity Instance Reserved 0087",
+	"type": "${defaultPrefix}.PublicBaseETRW0087",
+	"description": "Entity Instance Reserved 0087 using ALTER",
+	"ALTER": "alter query"
+}

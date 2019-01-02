@@ -1,0 +1,36 @@
+{
+
+"name": "ParkingStructures",
+"scope": "public",
+
+"description": "ParkingStructures",
+
+"properties": [
+  
+	{
+	"name": "Area",
+	"type": "String",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	  
+	{
+	"name": "Floors",
+	"type": "int",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "Elevator",
+	"type": "boolean",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+]
+
+
+}

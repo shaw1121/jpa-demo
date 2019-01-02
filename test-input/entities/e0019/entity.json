@@ -1,0 +1,11 @@
+{
+	"name": "chase",
+	"type": "${secondTenPrefix}.Bank",
+	"description": "Bank",
+	"area": "1000",
+	"width": "100",
+	"statictenant2": {
+		"T2Prop1": "Blue",
+		"T2Prop2": "100"
+	}
+}

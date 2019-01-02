@@ -1,0 +1,40 @@
+{
+
+"name": "Bank2",
+"scope": "private",
+
+"description": "Bank2",
+
+"properties": [
+  
+	{
+	"name": "Employees",
+	"type": "String",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	  
+	{
+	"name": "Locker",
+	"type": "boolean",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+
+"propertySets": [
+  
+	
+	{
+	"name": "statictenant2",
+	"propertySetType": "${defaultPrefix}.propsetStatic1"
+
+	
+	}
+	]
+
+
+}

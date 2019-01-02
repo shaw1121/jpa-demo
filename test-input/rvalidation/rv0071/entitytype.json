@@ -1,0 +1,25 @@
+{
+"name": "PublicBaseETRW0071",
+"scope": "public",
+"description": "Public Entitytype Reserved 0071",
+"properties": [
+	{
+	"name": "SELECT",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "INSERT",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "ALTER",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	}
+]
+}

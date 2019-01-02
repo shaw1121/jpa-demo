@@ -1,0 +1,9 @@
+{
+   "name": "Entity Instance EI110",
+   "type": "${defaultPrefix}.PublicSubTen1ET110",
+   "description": "Entity Instance EI110 using sub entitytype",
+   "PublicBaseDirect1": "Direct Property Base Entitytype",
+   "PublicBaseDirect2": "1000",
+   "PublicSubDirect1": "Direct Property Sub Entitytype",
+   "PublicSubDirect2": "10"   
+}

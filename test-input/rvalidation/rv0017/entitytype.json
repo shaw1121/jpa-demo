@@ -1,0 +1,13 @@
+{
+"name": "PublicBaseETRW0017",
+"scope": "public",
+"description": "Public Base Entitytype Reserved 0017",
+"properties": [
+	{
+	"name": "DirectProp1",
+	"type": "Boolean",
+	"length": 100,
+	"searchable": "Y"
+	}
+]
+}

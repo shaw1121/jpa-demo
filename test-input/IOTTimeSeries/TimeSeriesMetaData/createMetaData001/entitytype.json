@@ -1,0 +1,11 @@
+{
+      "name": "carid001",
+      "description": "carid001",
+      "scope": "private",
+      "propertySets": [
+        {
+          "name": "carpropset001",
+          "propertySetType": "Ten001.carpropset001"
+        }
+      ]
+    }

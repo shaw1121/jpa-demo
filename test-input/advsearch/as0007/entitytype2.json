@@ -1,0 +1,61 @@
+{
+
+"name": "asMERC7",
+"scope": "private",
+
+"description": "entity sub type",
+
+"properties": [
+  
+	{
+	"name": "asVin",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	  
+	{
+	"name": "asDoor",
+	"type": "int",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "asYear",
+	"type": "timestamp",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "asElectric",
+	"type": "boolean",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+  
+	{
+	"name": "asFseat",
+	"propertySetType": "${defaultPrefix}.asseats7"
+
+	
+	},
+	{
+	"name": "asRseat",
+	"propertySetType": "${defaultPrefix}.asseats7"
+
+	
+	}
+	
+	
+
+	
+],
+"extends": "${defaultPrefix}.ascar"	
+}

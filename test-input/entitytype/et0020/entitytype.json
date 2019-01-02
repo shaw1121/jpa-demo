@@ -1,0 +1,15 @@
+{
+"name": "PublicBaseET20",
+"scope": "public",
+"description": "Public Base Entitytype 20",
+"propertySets": [
+	{
+	"name": "PublicStatic1",
+	"propertySetType": "${defaultPrefix}.propsetNonExistent1"
+	},
+	{
+    "name": "PublicStatic2",
+    "propertySetType": "${defaultPrefix}.propsetNonExistent2"
+  }
+]
+}

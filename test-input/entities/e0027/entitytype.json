@@ -1,0 +1,63 @@
+{
+
+"name": "NationalParksAll",
+"scope": "public",
+
+"description": "NationalParksAll",
+
+"properties": [
+  
+	{
+	"name": "Area",
+	"type": "String",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	  
+	{
+	"name": "date",
+	"type": "timestamp",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "numberOfEmployees",
+	"type": "int",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "hourlyRate",
+	"type": "long",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "security",
+	"type": "boolean",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+
+"propertySets": [
+  
+	
+	{
+	"name": "staticpark",
+	"propertySetType": "${defaultPrefix}.propsetStatic2"
+
+	
+	}
+	]
+	
+	
+
+
+}

@@ -1,0 +1,14 @@
+{
+"name": "PublicBaseETRW0050sub",
+"scope": "public",
+"description": "Public Base Entitytype Reserved 0050sub",
+"properties": [
+	{
+	"name": "parent",
+	"type": "LONG",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"extends": "${defaultPrefix}.PublicBaseETRW0050"
+}

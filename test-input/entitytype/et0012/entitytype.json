@@ -1,0 +1,20 @@
+{
+"name": "PublicTen2ET12",
+"scope": "public",
+"description": "Public Base Entitytype 12",
+"properties": [
+	{
+	"name": "Ten2Direct1",
+	"type": "long",
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	{
+	"name": "Ten2Direct2",
+	"type": "string",
+	"length": 100,
+	"searchable": "Y"
+	}
+]
+}

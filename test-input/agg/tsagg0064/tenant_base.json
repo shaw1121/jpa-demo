@@ -1,0 +1,18 @@
+{
+  "externalId":"Base_tenant_agg_rs_agg0001",
+  "identityId": "Base_tenant_agg_rs_agg0001",
+  "name": "Base_tenant_agg_rs_agg0001",
+  "typePrefix":"Ten0001",
+	"configuration": {
+	    "entity": {
+	      "defaultTimezone": "Europe/Vienna"
+	    },
+	    "timeSeries": {
+	      "hotStorageHours": 168
+	    },
+	    "aggregate": {
+	      "uncertainThreshold": 64,
+	      "goodThreshold": 192
+	    }  
+	}
+} 

@@ -1,0 +1,73 @@
+{
+"name": "PublicBaseETRW0070",
+"scope": "public",
+"description": "Public Entitytype Reserved 0070",
+"properties": [
+	{
+	"name": "Timezone",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "Parent",
+	"type": "BOOLEAN",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "name",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "Tenant",
+	"type": "LONG",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "type",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "etag",
+	"type": "LONG",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "description",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "id",
+	"type": "LONG",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "_time",
+	"type": "TIMESTAMP",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "t2Tenant",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "subtenant",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	}
+]
+}

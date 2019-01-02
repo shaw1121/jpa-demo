@@ -1,0 +1,17 @@
+{
+    "id": "B000.propset4",
+    "name": "propset4",
+    "description": "sample property set",
+    "category": "static",
+    "scope": "private",
+    "properties": [
+        {
+            "name": "Color",
+            "type": "STRING",
+            "searchable": "Y",
+            "length": 100,
+            
+            "qualityCode": "N"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+
+"name": "ASCar7",
+"scope": "private",
+
+"description": "entitytype1",
+
+"properties": [
+  
+	{
+	"name": "ASMake",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	  
+	{
+	"name": "ASModel",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "ASEnginePower",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+    {
+	"name": "ASRFwheel",
+	"propertySetType": "${defaultPrefix}.aswheel17"
+
+	
+	},
+	{
+	"name": "ASLFwheel",
+	"propertySetType": "${defaultPrefix}.aswheel17"
+
+	
+	},
+  
+	{
+	"name": "ASLRwheel",
+	"propertySetType": "${defaultPrefix}.aswheel17"
+
+	
+	},
+	{
+	"name": "ASRRwheel",
+	"propertySetType": "${defaultPrefix}.aswheel17"
+
+	
+	}
+	
+	
+]
+
+}

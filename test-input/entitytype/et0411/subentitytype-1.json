@@ -1,0 +1,31 @@
+{
+"name": "PrivateSubTen2Ent04111",
+"scope": "private",
+"description": "Private Sub Entitytype 04111",
+"extends": "${defaultPrefix}.PublicTen1Ent0411",
+"properties": [
+	{
+	"name": "PrivateTen2Direct1",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	{
+	"name": "PrivateTen2Direct2",
+	"type": "DOUBLE",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PublicStatic2",
+	"propertySetType": "${secondTenPrefix}.propsetStaticET04111"
+	},
+	{
+	"name": "PublicStatic3",
+	"propertySetType": "${defaultPrefix}.propsetStaticET0411"
+	}	
+]
+}

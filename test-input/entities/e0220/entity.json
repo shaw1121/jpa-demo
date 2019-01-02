@@ -1,0 +1,7 @@
+{
+   "name": "San Mateo Builing ET06",
+   "type": "${defaultPrefix}.BuildingET06",
+   "description": "ET06",
+   "publicDirect8": "true",
+   "publicDirect7": "1000"
+}

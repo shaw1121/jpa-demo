@@ -1,0 +1,19 @@
+{
+    "name": "MachineET28",
+    "scope": "public",
+    "description": "Public Base Entitytype 28",
+    "properties": [
+        {
+            "name": "PublicDirect28",
+            "type": "string",
+            "length": 100,
+            "searchable": "Y"
+        },
+        {
+            "name": "PublicDirect280",
+            "type": "long",
+            "length": 100,
+            "searchable": "Y"
+        }
+    ]
+}

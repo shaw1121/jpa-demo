@@ -1,0 +1,21 @@
+{
+"name": "PublicTen1EntNV0145",
+"scope": "public",
+"description": "Public Base Entitytype 0145",
+"properties": [
+	{
+	"name": "PublicDirect1NV0145",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "False"
+	}
+	,
+	{
+	"name": "PublicDirect2NV0145",
+	"type": "INT",
+	"length": 100,
+	"searchable": "False"
+	
+	}
+]
+}

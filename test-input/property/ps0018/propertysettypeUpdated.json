@@ -1,0 +1,29 @@
+{
+    "name": "propsetp18",
+    "description": "propsetp18 property set",
+    "category": "static",
+    "scope": "public",
+    "properties": [
+        {
+			"name" : "Color",
+			"type" : "STRING",
+			"searchable" : "Y",
+			"length" : 100,
+			"qualityCode" : "N"
+		},
+		{
+			"name" : "Width",
+			"type" : "DOUBLE",
+			"searchable" : "Y",
+			"length" : 250,
+			"qualityCode" : "Y"
+		},
+		{
+			"name" : "brakes",
+			"type" : "INT",
+			"searchable" : "Y",
+			"length" : 6,
+			"qualityCode" : "Y"
+		}
+    ]
+}

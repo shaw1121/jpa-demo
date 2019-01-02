@@ -1,0 +1,1 @@
+Read aggregates with an empty result set

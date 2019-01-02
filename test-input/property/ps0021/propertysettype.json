@@ -1,0 +1,15 @@
+{
+    "name": "propset21",
+    "description": "sample property set",
+    "category": "static",
+    "scope": "public",
+    "properties": [
+        {
+            "name": "Color",
+            "type": "STRING",
+            "searchable": "Y",
+            "length": 100,
+            "qualityCode": "N"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+   "name": "Entity Instance EI302",
+   "type": "${defaultPrefix}.PublicBaseTen1ET302",
+   "description": "Entity Instance EI302 using partial static propertyset",
+   "PublicDirect1ET302" : "150",
+   "PublicDirect2ET302" : "Direct Property ET302",
+   "PublicStatic1ET302": {
+   "T1Prop1" : "PropertySet 1 ET302",
+   "T1Prop2" : "148"
+   }
+}

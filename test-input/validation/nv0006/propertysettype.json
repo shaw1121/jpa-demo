@@ -1,0 +1,16 @@
+{
+    "name": "nvpropset6",
+    "description": "sample property set",
+    "category": "static",
+    "scope": "private",
+    "properties": [
+        {
+            "name": "Diameter",
+            "type": "String",
+            "searchable": "Y",
+            "length": 100,
+            "unit": "KWH",
+            "qualityCode": "N"
+        }
+    ]
+}

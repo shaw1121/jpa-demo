@@ -1,0 +1,23 @@
+{
+   "name": "entity0009b",
+   "type": "${defaultPrefix}.entitytypen0009b",
+   "description": "SFO",
+   "Area": "1000 sq.ft",
+   "Area1": "2000 sq.ft",
+   "Area2": "3000 sq.ft",
+   "static1":   {
+    "Color": "green"
+    
+   },
+   "static10":   {
+    "Color": "blue"
+    
+   },
+   "static11":   {
+    "Color": "red"
+    
+   }
+   
+   
+   
+}

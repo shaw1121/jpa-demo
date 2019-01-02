@@ -1,0 +1,19 @@
+[
+  {
+      "_time": "2017-10-18T23:00:00Z",
+      "carmanual": "Test",
+      "carmanual_qc": 44,
+      "enginetemperature": 80,
+      "enginetemperature_qc": 55,
+      "rpm":5000.5,
+      "rpm_qc":33,
+      "speed":60,
+      "speed_qc":33,
+      "stereo": "Sony",
+      "stereo_qc": 55,
+      "foglamps": false,
+      "foglamps_qc": 55,
+      "date": "1988-09-24T00:00:00Z",
+      "date_qc": 55
+  }
+]

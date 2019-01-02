@@ -1,0 +1,41 @@
+{
+"name": "PublicBaseTen1ET327",
+"scope": "public",
+"description": "Public Base Entitytype 327",
+"properties": [
+	{
+	"name": "PublicDirect1ET327",
+	"type": "INT",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "PublicDirect2ET327",
+	"type": "LONG",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "PublicDirect3ET327",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "PublicDirect4ET327",
+	"type": "TIMESTAMP",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PublicStatic1",
+	"propertySetType": "${defaultPrefix}.propsetStatic1"
+	},
+	{
+	"name": "PublicDynamic1",
+	"propertySetType": "${defaultPrefix}.propsetDynamic1"
+  	}	
+]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "propsetStatic_E0018",
+    "description": "�",
+    "category": "static",
+    "scope": "public",
+    "properties": [
+       {
+      "name" : "_T1_Static_Prop1_",
+      "type" : "STRING",
+      "searchable" : "Y",
+      "length" : "255",
+      "qualityCode" : "Y"
+    	},
+    	{
+      "name" : "_T1_Static_Prop2_",
+      "type" : "INT",
+      "searchable" : "Y",
+      "length" : "255",
+      "qualityCode" : "Y"
+    	}
+    ]
+}

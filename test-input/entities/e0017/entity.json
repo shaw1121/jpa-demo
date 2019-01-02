@@ -1,0 +1,11 @@
+{
+	"name": "Wells Fargo Campbell",
+	"type": "${defaultPrefix}.Bank",
+	"description": "Bank",
+	"Transaction": "Credit",
+	"Employees": "10",
+	
+	"dynamic": {
+		"T1DynamicProp2": "800"
+	}
+}

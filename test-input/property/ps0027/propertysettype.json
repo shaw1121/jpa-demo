@@ -1,0 +1,15 @@
+{
+    "name": "propset27",
+    "description": "sample property set",
+    "category": "static",
+    "scope": "public",
+    "properties": [
+        {
+            "name": "Diameter",
+            "type": "STRING",
+            "searchable": "N",
+            "length": 100,
+            "qualityCode": "N"
+        }
+    ]
+}

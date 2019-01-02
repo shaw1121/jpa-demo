@@ -1,0 +1,22 @@
+{
+    "name": "propsetStatic7",
+    "description": "propsetStatic7 property set",
+    "category": "static",
+    "scope": "private",
+    "properties": [
+       {
+      "name" : "T2Prop13",
+      "type" : "INT",
+      "searchable" : "Y",
+      "length" : 100,
+      "qualityCode" : "N"
+    	},
+    	{
+      "name" : "T2Prop14",
+      "type" : "BOOLEAN",
+      "searchable" : "Y",
+      "length" : 100,
+      "qualityCode" : "Y"
+    	}
+    ]
+}

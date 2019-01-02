@@ -1,0 +1,18 @@
+{
+    "externalId": "tenant_extId105",
+    "identityId": "tenantNew105",
+    "name": "tenant-New105",
+    "typePrefix": "tNew105",
+    "configuration": {
+        "entity": {
+            "defaultTimezone": "Europe/Vienna"
+        },
+        "timeSeries": {
+            "hotStorageHours": 360
+        },
+        "aggregate": {
+            "uncertainThreshold": 30,
+            "goodThreshold": 29
+        }
+    }
+} 

@@ -1,0 +1,11 @@
+{
+"name": "Entity Instance MT0006",
+"type": "${defaultPrefix}.PublicTen1EntMT0006",
+"description": "Entity Instance MT0006 using parent tenant credentials",
+"PublicDirect1": "Direct Property 1 of Tenant",
+"PublicDirect2" : "true",
+"timezone" : "Asia/Kolkata",
+"PublicStatic1":{
+    "T1StaticProp1": "PropertySet Property 1"
+   }
+}

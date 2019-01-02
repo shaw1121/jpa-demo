@@ -1,0 +1,19 @@
+{
+      "id": "Ten003.car_id",
+      "name": "Ten003_car_temp_name",
+      "description": "Ten003_car_template_name",
+      "scope": "public",
+      "properties": [
+        {
+          "name": "manufacturer",
+          "type": "String",
+          "length": "255"
+        }
+      ],
+      "propertySets": [
+        {
+          "name": "Monitoring",
+          "propertySetType": "Ten003.monitoring_id"
+        }
+      ]
+    }

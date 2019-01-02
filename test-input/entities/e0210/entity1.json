@@ -1,0 +1,7 @@
+{
+   "name": "SunnyVale Lot 1",
+   "type": "${defaultPrefix}.ParkingStructures",
+   "description": "SunnyVale Lot 1",
+   "Area": "1000 sq.ft",
+   "Floors": "5"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "propsetp124",
+    "description": "propsetp124 property set",
+    "category": "static",
+    "scope": "private",
+    "properties": [
+        {
+            "name": "Diameter",
+            "type": "STRING",
+            "searchable": "Y",
+            "length": 100,
+            "qualityCode": "N"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+	"name": "chase3",
+	"type": "${defaultPrefix}.Bank",
+	"description": "Bank",
+	"Type": "New construction",
+	"width": "100",
+	"statictenant2": {
+		"T1Prop1": "Blue",
+		"T1Prop2": "100"
+	}
+}

@@ -1,0 +1,14 @@
+{
+    "name": "nvpropset159",
+    "description": "nvpropset159 property set",
+    "category": "dynamic",
+    "scope": "public",
+    "properties": [
+        {
+            "name": "Engine",
+            "type": "ULONG",
+            "searchable": "Y",
+            "qualityCode": "N"
+        }
+    ]
+}

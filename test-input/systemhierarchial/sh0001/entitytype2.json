@@ -1,0 +1,61 @@
+{
+
+"name": "SHMERC",
+"scope": "private",
+
+"description": "entity sub type",
+
+"properties": [
+  
+	{
+	"name": "SHVin",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	  
+	{
+	"name": "SHDoor",
+	"type": "int",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "SHYear",
+	"type": "timestamp",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "SHElectric",
+	"type": "boolean",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+  
+	{
+	"name": "SHFseat",
+	"propertySetType": "${defaultPrefix}.SHseats"
+
+	
+	},
+	{
+	"name": "SHRseat",
+	"propertySetType": "${defaultPrefix}.SHseats"
+
+	
+	}
+	
+	
+
+	
+],
+"extends": "${defaultPrefix}.SHcar"	
+}

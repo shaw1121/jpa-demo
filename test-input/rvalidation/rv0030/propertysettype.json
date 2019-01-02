@@ -1,0 +1,16 @@
+{
+    "name": "propsetReservedP0030",
+    "description": "sample property set",
+    "category": "static",
+    "scope": "public",
+    "properties": [
+        {
+            "name": "etag",
+            "type": "STRING",
+            "searchable": "Y",
+            "length": 100,
+            "qualityCode": "N"
+        }
+        
+    ]
+}

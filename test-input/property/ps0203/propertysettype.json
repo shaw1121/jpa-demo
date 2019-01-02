@@ -1,0 +1,23 @@
+{
+    "name": "propset0203",
+    "description": "propset0203 property set",
+    "category": "static",
+    "scope": "public",
+    "properties": [
+        {
+            "name": "Property1",
+            "type": "STRING",
+            "searchable": "Y",
+            "length": 100,
+            "qualityCode": "N"
+        },
+        {
+            "name": "Property2",
+            "type": "BOOLEAN",
+            "searchable": "Y",
+            "length": 100,
+            "qualityCode": "Y"
+        }
+        
+    ]
+}

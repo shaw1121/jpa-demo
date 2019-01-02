@@ -1,0 +1,1 @@
+Verify get aggregation for properties with bad qc, uncertain qc and good qc

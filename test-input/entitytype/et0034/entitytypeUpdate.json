@@ -1,0 +1,25 @@
+{
+    "name": "PublicBaseET34",
+    "scope": "public",
+    "description": "Public Base Entitytype 34",
+    "properties": [
+        {
+            "name": "PublicDirect1",
+            "type": "string",
+            "length": 100,
+            "searchable": "Y"
+        },
+        {
+            "name": "PublicDirect2",
+            "type": "long",
+            "length": 100,
+            "searchable": "Y"
+        },
+        {
+            "name": "NewPublicDirect3",
+            "type": "String",
+            "length": 100,
+            "searchable": "Y"
+        }
+    ]
+}

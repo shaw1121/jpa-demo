@@ -1,0 +1,28 @@
+{
+        "name": "Tenant003",
+        "externalId": "Tenant003",
+        "identityId": "Tenant003",
+        "typePrefix": "Ten003",
+        "storagePrefix": "Ten003",
+        "eTag": 1,
+        "configuration": {
+            "timeSeries": {
+                "hotStorageHours": "168"
+            },
+            "entity": {
+                "defaultTimezone": "UTC"
+            },
+            "aggregate": {
+                "goodThreshold": "192",
+                "firstDayOfWeek": "Monday",
+                "uncertainThreshold": "64"
+            }
+        },
+        "resources": {
+            "fileStorage": "S3-bucket-name",
+            "coldStorageTimeseries": "S3-bucket-name",
+            "hotStorageTimeSeries": "cts_data",
+            "workItem": "cwi-table",
+            "hotStorageAggregates": "aggregate-data"
+        }
+    }

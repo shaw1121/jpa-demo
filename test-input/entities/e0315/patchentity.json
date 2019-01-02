@@ -1,0 +1,5 @@
+{
+   "name": "Entity Instance EI315",
+   "type": "${defaultPrefix}.PublicBaseTen1ET315",
+   "description": "Entity Instance EI315 using no property"
+}

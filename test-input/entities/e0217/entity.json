@@ -1,0 +1,10 @@
+{
+	"name": "SFO217",
+	"type": "${secondTenPrefix}.Bank",
+	"description": "Bank",
+	"area": "1000",
+	"statictenant2": {
+		"T2Prop1": "Blue",
+		"T2Prop2": "100"
+	}
+}

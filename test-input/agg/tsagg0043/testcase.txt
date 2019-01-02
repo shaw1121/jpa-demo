@@ -1,0 +1,1 @@
+Verify get aggregation for interval unit = 2 minutes and from and to aligned to +00:30 time

@@ -1,0 +1,38 @@
+{
+
+"name": "entitytype0202",
+"scope": "private",
+
+"description": "entitytype0202",
+
+"properties": [
+  
+	{
+	"name": "Color",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	  
+	{
+	"name": "Model",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+  
+	{
+	"name": "propset0202",
+	"propertySetType": "${defaultPrefix}.propset0202"
+
+	
+	}
+	
+]
+
+}

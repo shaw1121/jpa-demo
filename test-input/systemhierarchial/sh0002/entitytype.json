@@ -1,0 +1,26 @@
+{
+"name": "EntityTypeSh0002",
+"scope": "public",
+"description": "Public Base Entitytype SH0002",
+"properties": [
+	{
+	"name": "PublicDirect1",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	{
+	"name": "PublicDirect2",
+	"type": "LONG",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PublicStatic1",
+	"propertySetType": "${defaultPrefix}.propsetStaticSh0002"
+	}	
+]
+}

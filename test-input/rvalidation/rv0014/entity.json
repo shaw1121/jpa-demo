@@ -1,0 +1,6 @@
+{
+	"name": "Entity Instance Reserved 0014",
+	"type": "${defaultPrefix}.PublicBaseETRW0014",
+	"description": "Entity Instance Reserved 0014 using time_to_live",
+	"time_to_live": "new query"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Ten003.monitoring_id",
+  "name": "Ten003_monitoring_name",
+  "description": "Ten003_monitoring_name",
+  "category": "dynamic",
+  "scope": "public",
+  "properties": [
+    {
+      "name": "speed",
+      "type": "double"
+    },
+    {
+      "name": "rpm",
+      "type": "double",
+      "qualityCode": "Y"
+    },
+    {
+      "name": "engine_temperature",
+      "type": "double"
+    },
+    {
+      "name": "air_pressure",
+      "type": "double"
+    }
+  ]
+}

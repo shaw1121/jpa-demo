@@ -1,0 +1,14 @@
+{
+   "name": "instpropset44",
+   "type": "${defaultPrefix}.entpropset44",
+   "description": "instpropset44",
+   "Area": "1000 sq.ft",
+   "population": "10000",
+   "entitypropset44":   {
+    "Diameter": "100"
+    
+   }
+   
+   
+   
+}

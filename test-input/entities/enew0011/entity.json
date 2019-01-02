@@ -1,0 +1,10 @@
+{
+"name": "Entity EI 0011",
+"type": "${defaultPrefix}.PublicTen1Ent0011",
+"description": "Sample Entity One",
+"PublicDirect1": "Property Length is more than defined",
+"timezone" : "Asia/Kolkata",
+"PublicStatic1":{
+    "T1StaticProp1": "PropertySet Property 1"
+   }
+}

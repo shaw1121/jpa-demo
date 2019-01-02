@@ -1,0 +1,54 @@
+{
+   "name": "MERC C Series",
+   "type": "${defaultPrefix}.SHMERC",
+   "description": "MERC C Series",
+   "SHMake": "MERC C 3",
+   "SHModel": "C series",
+   "SHEnginePower": "100 RPM",
+   "SHVin": "123224567B",
+   "SHDoor": 2,
+   "SHYear": "2016-05-01T16:00:00+05:00",
+   "SHElectric": "false",
+   "timezone": "America/New_York",
+   
+   
+   "SHRFwheel":   {
+    "SHWeight": 1000,
+    "SHHeight": 1200,
+    "SHWidth": 120
+    
+   },
+   "SHRRwheel":   {
+    "SHWeight": 1120,
+    "SHHeight": 2100,
+    "SHWidth": 110
+    
+   },
+   "SHLFwheel":   {
+    "SHWeight": 1120,
+    "SHHeight": 2100,
+    "SHWidth": 110
+    
+   },
+   "SHLRwheel":   {
+    "SHWeight": 1120,
+    "SHHeight": 2100,
+    "SHWidth": 110
+    
+   },
+   "SHFseat": {
+   "SHLeather":"false",
+   "SHMSHsage":"false",
+   "SHColor": "Green",
+   "SHHeight": "200"
+   },
+   "SHRseat": {
+   "SHLeather":"true",
+   "SHMSHsage":"true",
+   "SHColor": "Blue",
+   "SHHeight": "100"
+   }
+   
+   
+   
+}

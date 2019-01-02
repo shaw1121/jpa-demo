@@ -1,0 +1,13 @@
+{
+   "name": "Entity Instance EI112",
+   "type": "${defaultPrefix}.PublicSubTen1Ent112",
+   "description": "Entity Instance EI112 using sub entitytype",
+   "PublicStatic1": {
+   "T1Prop1" : "Direct PropertySet 1",
+   "T1Prop2" : "100"
+   },
+   "PublicStatic4": {
+   "T1Prop11" : "1024",
+   "T1Prop12" : "2048.49"
+   } 
+}

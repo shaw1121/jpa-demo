@@ -1,0 +1,14 @@
+{
+"name": "PublicSubETRW0017",
+"scope": "public",
+"description": "Public Sub Entitytype Reserved 0017",
+"extends" : "${defaultPrefix}.PublicBaseETRW0017",
+"properties": [
+	{
+	"name": "_time",
+	"type": "string",
+	"length": 100,
+	"searchable": "Y"
+	}
+]
+}

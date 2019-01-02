@@ -1,0 +1,29 @@
+{
+    "name": "propset129",
+    "description": "Propset129 property set",
+    "category": "static",
+    "scope": "public",
+    "properties": [
+        {
+            "name": "Color",
+            "type": "string",
+            "searchable": "Y",
+            "length": "100",
+            "qualityCode": "N"
+        },
+        {
+            "name": "Width",
+            "type": "double",
+            "searchable": "Y",
+            "length": "250",
+            "qualityCode": "Y"
+        },
+        {
+            "name": "Owner",
+            "type": "String",
+            "searchable": "Y",
+            "length": "100",
+            "qualityCode": "Y"
+        }
+    ]
+}

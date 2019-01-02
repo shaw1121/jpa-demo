@@ -1,0 +1,19 @@
+{
+"name": "PublicBaseET112",
+"scope": "public",
+"description": "Public Base Entitytype 112",
+"properties": [
+	{
+	"name": "PublicDirect1",
+	"type": "string",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "PublicDirect2",
+	"type": "long",
+	"length": 100,
+	"searchable": "Y"
+	}
+]
+}

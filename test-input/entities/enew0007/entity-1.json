@@ -1,0 +1,11 @@
+{
+"name": "Entity Instance EINew0007",
+"type": "${secondTenPrefix}.PublicTen2Ent0007",
+"description": "Entity Instance EINew0007 using propertyset",
+"PublicDirect1": "Direct Property 1 of Tenant 2",
+"PublicDirect2" : "250",
+"timezone" : "Asia/Kolkata",
+"PublicStatic1":{
+    "T2StaticProp1": "PropertySet Property 1"
+   }
+}

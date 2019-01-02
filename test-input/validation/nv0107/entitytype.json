@@ -1,0 +1,26 @@
+{
+"name": "PublicTen1EntNV0107",
+"scope": "public",
+"description": "Public Base Entitytype 0107",
+"properties": [
+	{
+	"name": "PublicDirect1NV0107",
+	"type": "STRING",
+	"length": 254,
+	"searchable": "Y"
+	}
+	,
+	{
+	"name": "PublicDirect2NV0107",
+	"type": "INT",
+	"length": 180,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PublicStatic1",
+	"propertySetType": "${defaultPrefix}.propsetStaticNV0107"
+	}	
+]
+}

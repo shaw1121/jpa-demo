@@ -1,0 +1,23 @@
+{
+    "id": "${secondTenPrefix}.propsetStaticNV0050",
+    "name": "propsetStaticNV0050",
+    "description": "propsetStaticNV0050 property set",
+    "category": "static",
+    "scope": "private",
+    "properties": [
+       {
+      "name" : "T2StaticProp1",
+      "type" : "STRING",
+      "searchable" : "Y",
+      "length" : "100",
+      "qualityCode" : "Y"
+    	},
+    	{
+      "name" : "T2StaticProp2",
+      "type" : "LONG",
+      "searchable" : "Y",
+      "length" : "100",
+      "qualityCode" : "Y"
+    	}
+    ]
+}

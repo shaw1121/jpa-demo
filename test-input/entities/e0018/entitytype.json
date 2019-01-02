@@ -1,0 +1,42 @@
+{
+
+"name": "ATM_1",
+"scope": "public",
+
+"description": "Bank",
+
+"properties": [
+  
+	{
+	"name": "Limit",
+	"type": "String",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	  
+	{
+	"name": "Hours",
+	"type": "int",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+
+"propertySets": [
+  
+	
+	{
+	"name": "staticatm",
+	"propertySetType": "${defaultPrefix}.propsetStatic2"
+
+	
+	}
+	],
+	
+	"extends": "${defaultPrefix}.Bank"
+
+
+}

@@ -1,0 +1,9 @@
+{
+"name": "Noida",
+"type": "${defaultPrefix}.NotExist",
+"description": "Noida City",
+"Area": "1000 sq.ft",
+"static1":{
+    "Color": "Blue"
+   }
+}

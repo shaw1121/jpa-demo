@@ -1,0 +1,15 @@
+{
+"name": "PublicBaseTen1ET120",
+"scope": "public",
+"description": "Public Base Entitytype 120",
+"propertySets": [
+	{
+	"name": "PublicStatic1",
+	"propertySetType": "${defaultPrefix}.propsetStatic1"
+	},
+	{
+    "name": "PublicStatic2",
+    "propertySetType": "${defaultPrefix}.propsetStatic6"
+  	}	
+]
+}

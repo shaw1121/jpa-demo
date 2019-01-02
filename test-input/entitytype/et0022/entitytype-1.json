@@ -1,0 +1,30 @@
+{
+"name": "PublicBaseET22",
+"scope": "public",
+"description": "Public Base Entitytype 22 for tenant 2",
+"properties": [
+	{
+	"name": "PublicDirect3",
+	"type": "string",
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	{
+	"name": "PublicDirect4",
+	"type": "long",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PublicStatic1",
+	"propertySetType": "${secondTenPrefix}.propsetStatic1"
+	},
+	{
+    "name": "PublicStatic2",
+    "propertySetType": "${secondTenPrefix}.propsetStatic2"
+  }
+]
+}

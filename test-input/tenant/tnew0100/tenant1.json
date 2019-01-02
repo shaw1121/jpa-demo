@@ -1,0 +1,18 @@
+{
+    "externalId": "tenant_extId100",
+    "identityId": "tenantNew100",
+    "name": "tenant-UpdatePatch",
+    "typePrefix": "tNew100",
+    "configuration": {
+        "entity": {
+            "defaultTimezone": "Europe/Vienna"
+        },
+        "timeSeries": {
+            "hotStorageHours": 210
+        },
+        "aggregate": {
+            "uncertainThreshold": 30,
+            "goodThreshold": 29
+        }
+    }
+}

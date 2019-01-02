@@ -1,0 +1,28 @@
+{
+    "name": "propsetStaticNV0167",
+    "description": "propsetStaticNV0167 property set",
+    "category": "dynamic",
+    "scope": "public",
+    "properties": [
+        {
+            "name": "Engine",
+            "type": "ULONG",
+            "searchable": "Y",
+            "qualityCode": "N"
+        },
+        {
+            "name": "Temperature",
+            "type": "BIG_STRING",
+            "length" : 99900,
+            "searchable": "Y",
+            "qualityCode": "N"
+        },
+        {
+            "name": "RPM",
+            "type": "STRING",
+            "length" : 100,
+            "searchable": "Y",
+            "qualityCode": "Y"
+        }
+    ]
+}

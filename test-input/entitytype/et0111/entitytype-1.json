@@ -1,0 +1,29 @@
+{
+"name": "PublicAnotherBaseET111",
+"scope": "public",
+"description": "Public Another Base Entitytype 111",
+"properties": [
+	{
+	"name": "PublicDirect3",
+	"type": "Timestamp",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "PublicDirect4",
+	"type": "int",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "PublicStatic5",
+	"propertySetType": "${defaultPrefix}.propsetStatic5"
+	},
+	{
+    "name": "PublicStatic6",
+    "propertySetType": "${defaultPrefix}.propsetStatic6"
+  	}
+]
+}

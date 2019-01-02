@@ -1,0 +1,13 @@
+{
+"name": "PublicBaseETRW0092",
+"scope": "public",
+"description": "Public Base Entitytype Reserved 0092",
+"properties": [
+	{
+	"name": "_subtenant",
+	"type": "LONG",
+	"length": 100,
+	"searchable": "Y"
+	}
+]
+}

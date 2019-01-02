@@ -1,0 +1,27 @@
+{
+"name": "PublicExistET11",
+"scope": "public",
+"description": "Public Sub Entitytype 11",
+"extends": "${defaultPrefix}.PublicNonExistET",
+"properties": [
+	{
+	"name": "Direct1",
+	"type": "long",
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	{
+	"name": "Direct2",
+	"type": "double",
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+	{
+	"name": "Static1",
+	"propertySetType": "${defaultPrefix}.propsetStatic1"
+	}
+]
+}

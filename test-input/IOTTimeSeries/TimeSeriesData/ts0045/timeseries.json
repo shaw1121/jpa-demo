@@ -1,0 +1,36 @@
+[
+  {
+    "_time": "2017-01-06T23:00:00Z",
+      	"carmanual": "Test1",
+        "date": "1988-09-24T00:00:00Z",
+        "stereo_qc": 80800808080875675,
+        "date_qc": -80800808080875675,
+        "rpm_qc": 50,
+        "rpm": 5000.5,
+        "speed": 10,
+        "foglamps_qc": 10,
+        "speed_qc": 60,
+        "enginetemperature": 100,
+        "foglamps": true,
+        "carmanual_qc": 10,
+        "stereo": "Sony1",
+        "enginetemperature_qc": 30
+      	},
+      	{
+    "_time": "2017-01-06T23:00:00Z",
+      	"carmanual": "Test2",
+        "date": "1988-09-24T00:12:00Z",
+        "stereo_qc": 80800808080875686,
+        "date_qc": -80800808080875697,
+        "rpm_qc": 70,
+        "rpm": 7000.5,
+        "speed": 30,
+        "foglamps_qc": 40,
+        "speed_qc": 30,
+        "enginetemperature": 110,
+        "foglamps": false,
+        "carmanual_qc": 30,
+        "stereo": "Sony2",
+        "enginetemperature_qc": 40
+      	}
+]

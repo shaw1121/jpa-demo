@@ -1,0 +1,16 @@
+{
+    "name": "propset8",
+    "description": "sample property set",
+    "category": "static",
+    "scope": "private",
+    "properties": [
+        {
+            "name": "Color",
+            "type": "BOOLEAN",
+            "searchable": "Y",
+            "length": 100,
+            
+            "qualityCode": "N"
+        }
+    ]
+}

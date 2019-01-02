@@ -1,0 +1,61 @@
+{
+
+"name": "aseamers002",
+"scope": "public",
+
+"description": "entity sub type",
+
+"properties": [
+  
+	{
+	"name": "asVin",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	  
+	{
+	"name": "asDoor",
+	"type": "int",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "asYear",
+	"type": "timestamp",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "asElectric",
+	"type": "boolean",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+  
+	{
+	"name": "asFseat",
+	"propertySetType": "${defaultPrefix}.aseaseat002"
+
+	
+	},
+	{
+	"name": "asRseat",
+	"propertySetType": "${defaultPrefix}.aseaseat002"
+
+	
+	}
+	
+	
+
+	
+],
+"extends": "${defaultPrefix}.aseacars002"	
+}

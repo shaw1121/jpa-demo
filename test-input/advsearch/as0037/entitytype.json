@@ -1,0 +1,46 @@
+{
+
+"name": "ASCar",
+"scope": "private",
+
+"description": "entitytype1",
+
+"properties": [
+  
+	{
+	"name": "ASMake",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	  
+	{
+	"name": "ASModel",
+	"type": "STRING",
+	"unit": null,
+	"length": 100,
+	"searchable": "Y"
+	}
+],
+"propertySets": [
+  
+	{
+	"name": "ASRFwheel",
+	"propertySetType": "${defaultPrefix}.aswheel1"
+
+	
+	},
+	{
+	"name": "ASLFwheel",
+	"propertySetType": "${defaultPrefix}.aswheel1"
+
+	
+	}
+	
+	
+	
+]
+
+}

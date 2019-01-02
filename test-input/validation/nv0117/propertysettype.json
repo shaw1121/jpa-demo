@@ -1,0 +1,15 @@
+{
+    "name": "nvpropset117",
+    "description": "nvpropset117 property set",
+    "category": "dynamic",
+    "scope": "public",
+    "properties": [
+        {
+            "name": "Ttl",
+            "type": "STRING",
+            "searchable": "Y",
+            "length": 100,
+            "qualityCode": "N"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+"name": "PublicBaseETRW0072",
+"scope": "public",
+"description": "Public Entitytype Reserved 0072",
+"properties": [
+	{
+	"name": "$MarkForDeleteTime",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "$LastUpdBy",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "$LastUpd",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "$Created",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	},
+	{
+	"name": "$CreatedBy",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	}
+]
+}

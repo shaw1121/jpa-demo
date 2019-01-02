@@ -1,0 +1,13 @@
+{
+"name": "PublicBaseETRW0013",
+"scope": "public",
+"description": "Public Base Entitytype Reserved 0013",
+"properties": [
+	{
+	"name": "lastUpd",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	}
+]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "propsetStatic8",
+    "description": "propsetStatic8 property set",
+    "category": "static",
+    "scope": "private",
+    "properties": [
+       {
+      "name" : "T2Prop15",
+      "type" : "LONG",
+      "searchable" : "Y",
+      "length" : 100,
+      "qualityCode" : "N"
+    	},
+    	{
+      "name" : "T2Prop16",
+      "type" : "DOUBLE",
+      "searchable" : "Y",
+      "length" : 100,
+      "qualityCode" : "Y"
+    	}
+    ]
+}

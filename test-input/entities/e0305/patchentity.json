@@ -1,0 +1,13 @@
+{
+   "name": "Entity Instance EI305",
+   "type": "${defaultPrefix}.PublicSubTen1ET305",
+   "description": "Entity Instance EI305 using propertyset",
+   "PublicStatic1" : {
+   "T1Prop1" : "Updated Propset Property 1",
+   "T1Prop2" : "2500"
+   },
+   "PublicStatic2" : {
+   "T1Prop3" : "Propset Property 3",
+   "T1Prop4" : "1099"
+   }
+}

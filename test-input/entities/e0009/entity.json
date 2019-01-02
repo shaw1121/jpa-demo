@@ -1,0 +1,14 @@
+{
+   "name": "Milipitas1",
+   "type": "${defaultPrefix}.City",
+   "description": "Milipitas",
+   "Area": "1500 sq.ft",
+   "nonexisting": "this property doesn't exist in original entity type",
+   "static1":   {
+    "Height": "600"
+    
+   }
+   
+   
+   
+}

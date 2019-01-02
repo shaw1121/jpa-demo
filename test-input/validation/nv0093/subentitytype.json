@@ -1,0 +1,21 @@
+{
+"name": "PublicSubTen1EntNV0093",
+"scope": "public",
+"description": "Public Sub Entitytype 0093",
+"extends": "${defaultPrefix}.PublicTen1EntNV0093",
+"properties": [
+	{
+	"name": "PublicSubDirect1NV0093",
+	"type": "STRING",
+	"length": 100,
+	"searchable": "Y"
+	}
+	,
+	{
+	"name": "PublicSubDirect2NV0093",
+	"type": "BOOLEAN",
+	"length": 100,
+	"searchable": "N"
+	}
+]
+}
